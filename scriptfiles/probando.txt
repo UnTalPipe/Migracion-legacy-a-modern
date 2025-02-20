@@ -1,0 +1,29 @@
+// Textdraw editor traducido por Carlosxp
+
+// Programación:
+new Text:Textdraw0;
+new Text:Textdraw1;
+
+// En OnGameModeInt podrá crear los textdraws correspondientes:
+Textdraw0 = TextDrawCreate(350.000000, 391.000000, "~b~Puntos Drift: ~r~999999");
+TextDrawBackgroundColor(Textdraw0, 255);
+TextDrawFont(Textdraw0, 1);
+TextDrawLetterSize(Textdraw0, 0.430000, 1.799999);
+TextDrawColor(Textdraw0, -1);
+TextDrawSetOutline(Textdraw0, 0);
+TextDrawSetProportional(Textdraw0, 1);
+TextDrawSetShadow(Textdraw0, 1);
+TextDrawSetSelectable(Textdraw0, 0);
+
+Textdraw1 = TextDrawCreate(349.000000, 405.000000, "~b~Dinero por drift: ~r~$999999");
+TextDrawBackgroundColor(Textdraw1, 255);
+TextDrawFont(Textdraw1, 1);
+TextDrawLetterSize(Textdraw1, 0.430000, 1.799999);
+TextDrawColor(Textdraw1, -1);
+TextDrawSetOutline(Textdraw1, 0);
+TextDrawSetProportional(Textdraw1, 1);
+TextDrawSetShadow(Textdraw1, 1);
+TextDrawSetSelectable(Textdraw1, 0);
+
+// Ahora puede utilizar TextDrawShowForPlayer(-ForAll), TextDrawHideForPlayer(-ForAll) y
+// TextDrawDestroy para ocultar los textdraws.

@@ -1,0 +1,127 @@
+// TextDraw developed using Zamaroht's Textdraw Editor 1.0
+
+// The fuction `PlayerTextDraw´ add by adri1
+// On top of script:
+new PlayerText:Textdraw0;
+new PlayerText:Textdraw1;
+new PlayerText:Textdraw2;
+new PlayerText:Textdraw3;
+new PlayerText:Textdraw4;
+new PlayerText:Textdraw5;
+new PlayerText:Textdraw6;
+new PlayerText:Textdraw7;
+new PlayerText:Textdraw8;
+new PlayerText:Textdraw9;
+
+// In OnPlayerConnect prefferably, we procced to create our textdraws:
+Textdraw0 = CreatePlayerTextDraw(playerid,206.000000, 282.000000, "Evento");
+PlayerTextDrawBackgroundColor(playerid,Textdraw0, 255);
+PlayerTextDrawFont(playerid,Textdraw0, 3);
+PlayerTextDrawLetterSize(playerid,Textdraw0, 0.589999, 2.499999);
+PlayerTextDrawColor(playerid,Textdraw0, -1);
+PlayerTextDrawSetOutline(playerid,Textdraw0, 0);
+PlayerTextDrawSetProportional(playerid,Textdraw0, 1);
+PlayerTextDrawSetShadow(playerid,Textdraw0, 1);
+PlayerTextDrawSetSelectable(playerid,Textdraw0, 0);
+
+Textdraw1 = CreatePlayerTextDraw(playerid,472.000000, 280.000000, "_");
+PlayerTextDrawBackgroundColor(playerid,Textdraw1, 255);
+PlayerTextDrawFont(playerid,Textdraw1, 1);
+PlayerTextDrawLetterSize(playerid,Textdraw1, 0.500000, 13.000000);
+PlayerTextDrawColor(playerid,Textdraw1, -1);
+PlayerTextDrawSetOutline(playerid,Textdraw1, 0);
+PlayerTextDrawSetProportional(playerid,Textdraw1, 1);
+PlayerTextDrawSetShadow(playerid,Textdraw1, 1);
+PlayerTextDrawUseBox(playerid,Textdraw1, 1);
+PlayerTextDrawBoxColor(playerid,Textdraw1, 437918357);
+PlayerTextDrawTextSize(playerid,Textdraw1, 200.000000, 0.000000);
+PlayerTextDrawSetSelectable(playerid,Textdraw1, 0);
+
+Textdraw2 = CreatePlayerTextDraw(playerid,281.000000, 280.000000, "_");
+PlayerTextDrawBackgroundColor(playerid,Textdraw2, 255);
+PlayerTextDrawFont(playerid,Textdraw2, 1);
+PlayerTextDrawLetterSize(playerid,Textdraw2, 0.549999, 2.999999);
+PlayerTextDrawColor(playerid,Textdraw2, -1);
+PlayerTextDrawSetOutline(playerid,Textdraw2, 0);
+PlayerTextDrawSetProportional(playerid,Textdraw2, 1);
+PlayerTextDrawSetShadow(playerid,Textdraw2, 1);
+PlayerTextDrawUseBox(playerid,Textdraw2, 1);
+PlayerTextDrawBoxColor(playerid,Textdraw2, -1170987094);
+PlayerTextDrawTextSize(playerid,Textdraw2, 200.000000, 10.000000);
+PlayerTextDrawSetSelectable(playerid,Textdraw2, 0);
+
+Textdraw3 = CreatePlayerTextDraw(playerid,472.000000, 280.000000, "_");
+PlayerTextDrawBackgroundColor(playerid,Textdraw3, 255);
+PlayerTextDrawFont(playerid,Textdraw3, 1);
+PlayerTextDrawLetterSize(playerid,Textdraw3, 0.549999, 2.999999);
+PlayerTextDrawColor(playerid,Textdraw3, -1);
+PlayerTextDrawSetOutline(playerid,Textdraw3, 0);
+PlayerTextDrawSetProportional(playerid,Textdraw3, 1);
+PlayerTextDrawSetShadow(playerid,Textdraw3, 1);
+PlayerTextDrawUseBox(playerid,Textdraw3, 1);
+PlayerTextDrawBoxColor(playerid,Textdraw3, 1835887925);
+PlayerTextDrawTextSize(playerid,Textdraw3, 278.000000, 10.000000);
+PlayerTextDrawSetSelectable(playerid,Textdraw3, 0);
+
+Textdraw4 = CreatePlayerTextDraw(playerid,280.000000, 284.000000, "Comenzara en 30 segundos");
+PlayerTextDrawBackgroundColor(playerid,Textdraw4, 255);
+PlayerTextDrawFont(playerid,Textdraw4, 2);
+PlayerTextDrawLetterSize(playerid,Textdraw4, 0.310000, 2.000000);
+PlayerTextDrawColor(playerid,Textdraw4, 615680255);
+PlayerTextDrawSetOutline(playerid,Textdraw4, 0);
+PlayerTextDrawSetProportional(playerid,Textdraw4, 1);
+PlayerTextDrawSetShadow(playerid,Textdraw4, 1);
+PlayerTextDrawSetSelectable(playerid,Textdraw4, 0);
+
+Textdraw5 = CreatePlayerTextDraw(playerid,227.000000, 315.000000, "Para entrar, introduzca");
+PlayerTextDrawBackgroundColor(playerid,Textdraw5, 255);
+PlayerTextDrawFont(playerid,Textdraw5, 3);
+PlayerTextDrawLetterSize(playerid,Textdraw5, 0.380000, 1.700000);
+PlayerTextDrawColor(playerid,Textdraw5, -781120769);
+PlayerTextDrawSetOutline(playerid,Textdraw5, 0);
+PlayerTextDrawSetProportional(playerid,Textdraw5, 1);
+PlayerTextDrawSetShadow(playerid,Textdraw5, 1);
+PlayerTextDrawSetSelectable(playerid,Textdraw5, 0);
+
+Textdraw6 = CreatePlayerTextDraw(playerid,391.000000, 315.000000, "/SURVIVAL.");
+PlayerTextDrawBackgroundColor(playerid,Textdraw6, 255);
+PlayerTextDrawFont(playerid,Textdraw6, 3);
+PlayerTextDrawLetterSize(playerid,Textdraw6, 0.460000, 1.500000);
+PlayerTextDrawColor(playerid,Textdraw6, 950462207);
+PlayerTextDrawSetOutline(playerid,Textdraw6, 0);
+PlayerTextDrawSetProportional(playerid,Textdraw6, 1);
+PlayerTextDrawSetShadow(playerid,Textdraw6, 4);
+PlayerTextDrawSetSelectable(playerid,Textdraw6, 0);
+
+Textdraw7 = CreatePlayerTextDraw(playerid,203.000000, 333.000000, "Trata de eliminar a tus enemigos para ganar");
+PlayerTextDrawBackgroundColor(playerid,Textdraw7, 255);
+PlayerTextDrawFont(playerid,Textdraw7, 3);
+PlayerTextDrawLetterSize(playerid,Textdraw7, 0.340000, 1.900000);
+PlayerTextDrawColor(playerid,Textdraw7, -781120769);
+PlayerTextDrawSetOutline(playerid,Textdraw7, 0);
+PlayerTextDrawSetProportional(playerid,Textdraw7, 1);
+PlayerTextDrawSetShadow(playerid,Textdraw7, 1);
+PlayerTextDrawSetSelectable(playerid,Textdraw7, 0);
+
+Textdraw8 = CreatePlayerTextDraw(playerid,203.000000, 353.000000, "y los premios seran exclusivos para tu equipo");
+PlayerTextDrawBackgroundColor(playerid,Textdraw8, 255);
+PlayerTextDrawFont(playerid,Textdraw8, 3);
+PlayerTextDrawLetterSize(playerid,Textdraw8, 0.330000, 2.000000);
+PlayerTextDrawColor(playerid,Textdraw8, -781120769);
+PlayerTextDrawSetOutline(playerid,Textdraw8, 0);
+PlayerTextDrawSetProportional(playerid,Textdraw8, 1);
+PlayerTextDrawSetShadow(playerid,Textdraw8, 1);
+PlayerTextDrawSetSelectable(playerid,Textdraw8, 0);
+
+Textdraw9 = CreatePlayerTextDraw(playerid,203.000000, 374.000000, "o para degustarlos tu solo.");
+PlayerTextDrawBackgroundColor(playerid,Textdraw9, 255);
+PlayerTextDrawFont(playerid,Textdraw9, 3);
+PlayerTextDrawLetterSize(playerid,Textdraw9, 0.370000, 2.100000);
+PlayerTextDrawColor(playerid,Textdraw9, -781120769);
+PlayerTextDrawSetOutline(playerid,Textdraw9, 0);
+PlayerTextDrawSetProportional(playerid,Textdraw9, 1);
+PlayerTextDrawSetShadow(playerid,Textdraw9, 1);
+PlayerTextDrawSetSelectable(playerid,Textdraw9, 0);
+
+// You can now use PlayerTextDrawShow, PlayerTextDrawHide and
+// PlayerTextDrawDestroy functions to show, hide, and destroy the textdraw.

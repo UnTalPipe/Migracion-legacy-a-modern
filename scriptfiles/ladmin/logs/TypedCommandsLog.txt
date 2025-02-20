@@ -1,0 +1,1054 @@
+﻿[25.9.2015 2:0:23] » Cmds: Carlosxp [0] /lockcar
+[25.9.2015 2:0:27] » Cmds: Carlosxp [0] /lockcar
+[25.9.2015 2:0:32] » Cmds: Carlosxp [0] /unlockcar
+[25.9.2015 2:0:34] » Cmds: Carlosxp [0] /vsay q
+[25.9.2015 2:0:37] » Cmds: Carlosxp [0] /setvip
+[25.9.2015 2:0:41] » Cmds: Carlosxp [0] /setvip 0 8
+[25.9.2015 2:0:44] » Cmds: Carlosxp [0] /vsay /q
+[25.9.2015 2:2:33] » Cmds: Carlosxp [0] /recompensa
+[25.9.2015 2:2:35] » Cmds: Carlosxp [0] /recompensa 0 1
+[25.9.2015 2:2:59] » Cmds: Carlosxp [0] /darlevel
+[25.9.2015 2:3:0] » Cmds: Carlosxp [0] /darlevel 0 0
+[25.9.2015 2:4:52] » Cmds: Carlosxp [0] /balase
+[25.9.2015 2:4:55] » Cmds: Carlosxp [0] /setvip
+[25.9.2015 2:4:57] » Cmds: Carlosxp [0] /setvip 
+[25.9.2015 2:4:59] » Cmds: Carlosxp [0] /darlevel
+[25.9.2015 2:5:2] » Cmds: Carlosxp [0] /darlevel 0 8
+[25.9.2015 2:5:3] » Cmds: Carlosxp [0] /setvip
+[25.9.2015 2:5:6] » Cmds: Carlosxp [0] /setvip 0 4
+[25.9.2015 2:5:8] » Cmds: Carlosxp [0] /balase
+[25.9.2015 2:5:11] » Cmds: Carlosxp [0] /setvip 0 6
+[25.9.2015 2:5:13] » Cmds: Carlosxp [0] /balase
+[25.9.2015 2:6:32] » Cmds: Carlosxp [0] /vs
+[25.9.2015 2:6:37] » Cmds: Carlosxp [0] /setvip 0 7
+[25.9.2015 2:6:39] » Cmds: Carlosxp [0] /setvip 0 8
+[25.9.2015 2:6:43] » Cmds: Carlosxp [0] /vsay /q todos
+[25.9.2015 2:18:33] » Cmds: Carlosxp [0] /vsay
+[25.9.2015 2:38:43] » Cmds: Carlosxp [0] /setvip
+[25.9.2015 2:38:47] » Cmds: Carlosxp [0] /setvip 0 9
+[25.9.2015 2:44:25] » Cmds: Carlosxp [0] /balase
+[25.9.2015 2:44:31] » Cmds: Carlosxp [0] /setvip
+[25.9.2015 2:44:34] » Cmds: Carlosxp [0] /setvip 0 0
+[25.9.2015 2:44:46] » Cmds: Carlosxp [0] /setvip 0 1
+[25.9.2015 2:44:51] » Cmds: Carlosxp [0] /setvip 0 2
+[25.9.2015 2:44:52] » Cmds: Carlosxp [0] /setvip 0 9
+[25.9.2015 2:45:11] » Cmds: Carlosxp [0] /darallcash 15
+[25.9.2015 2:45:17] » Cmds: Carlosxp [0] /darallscore 15
+[25.9.2015 2:45:19] » Cmds: Carlosxp [0] /darallscore 15
+[25.9.2015 2:45:22] » Cmds: Carlosxp [0] /darlevel 0 10
+[25.9.2015 2:45:23] » Cmds: Carlosxp [0] /darallscore 15
+[25.9.2015 2:45:29] » Cmds: Carlosxp [0] /darallnivel
+[25.9.2015 2:45:30] » Cmds: Carlosxp [0] /darallnivel 15
+[25.9.2015 2:45:34] » Cmds: Carlosxp [0] /darallarmas 10
+[25.9.2015 2:45:41] » Cmds: Carlosxp [0] /dararma 0 10
+[25.9.2015 2:45:48] » Cmds: Carlosxp [0] /redinero 0
+[25.9.2015 2:45:56] » Cmds: Carlosxp [0] /setcash 0 99999
+[25.9.2015 2:46:1] » Cmds: Carlosxp [0] /setscore
+[25.9.2015 2:46:5] » Cmds: Carlosxp [0] /setscore 0 10
+[25.9.2015 2:46:7] » Cmds: Carlosxp [0] /setscore 0 9999
+[25.9.2015 2:46:10] » Cmds: Carlosxp [0] /darcash
+[25.9.2015 2:46:13] » Cmds: Carlosxp [0] /darcash 0 5000
+[25.9.2015 2:46:24] » Cmds: Carlosxp [0] /setallmundo 0
+[25.9.2015 14:47:26] » Cmds: Carlosxp [0] /balase
+[25.9.2015 14:47:41] » Cmds: Carlosxp [0] /balase
+[25.9.2015 14:47:47] » Cmds: Carlosxp [0] /counter
+[25.9.2015 14:48:27] » Cmds: Carlosxp [0] /setscore
+[25.9.2015 14:48:31] » Cmds: Carlosxp [0] /setscore 0 999
+[25.9.2015 14:48:32] » Cmds: Carlosxp [0] /setscore 0 9999
+[25.9.2015 14:48:35] » Cmds: Carlosxp [0] /darallscore 1
+[25.9.2015 14:48:59] » Cmds: Carlosxp [0] /setscore 0 14999
+[25.9.2015 14:49:3] » Cmds: Carlosxp [0] /setscore 0 14999
+[25.9.2015 14:49:14] » Cmds: Carlosxp [0] /Darallscore 1
+[25.9.2015 14:55:59] » Cmds: Carlosxp [0] /darleveltemp
+[25.9.2015 14:56:1] » Cmds: Carlosxp [0] /darleveltemp 0 9
+[25.9.2015 14:56:3] » Cmds: Carlosxp [0] /darleveltemp 0 8
+[25.9.2015 14:56:7] » Cmds: Carlosxp [0] /Darlevel
+[25.9.2015 14:56:12] » Cmds: [GAY]Carlosxp [0] /darlevel 0 0
+[25.9.2015 14:56:16] » Cmds: [GAY]Carlosxp [0] /darlevel
+[25.9.2015 14:58:18] » Cmds: Carlosxp [0] /lgoto 4711.92871, -59.67082, 21.12333
+[25.9.2015 14:58:19] » Cmds: Carlosxp [0] /lgoto 4711.92871, -59.67082, 21.12333
+[25.9.2015 14:58:20] » Cmds: Carlosxp [0] /fly
+[25.9.2015 14:58:41] » Cmds: Carlosxp [0] /fly
+[25.9.2015 15:1:54] » Cmds: Carlosxp [0] /imsertar
+[25.9.2015 15:4:2] » Cmds: Carlosxp [0] /noradio
+[25.9.2015 15:7:16] » Cmds: Carlosxp [0] /lgoto
+[25.9.2015 15:7:16] » Cmds: Carlosxp [0] /g
+[25.9.2015 15:7:32] » Cmds: Carlosxp [0] /lgoto 4888.4175,-11.1823,23.2767,89.6960
+[25.9.2015 15:7:35] » Cmds: Carlosxp [0] /lgoto 4888.4175,-11.1823,23.2767
+[25.9.2015 15:7:41] » Cmds: Carlosxp [0] /lgoto 4888.4175 -11.1823 23.2767
+[25.9.2015 15:7:44] » Cmds: Carlosxp [0] /lgoto 4888.4175 -11.1823 23.2767
+[25.9.2015 15:12:0] » Cmds: Carlosxp [0] /fly
+[25.9.2015 16:1:8] » Cmds: Carlosxp [0] /fineventoslr
+[25.9.2015 16:23:32] » Cmds: Carlosxp [0] /s
+[25.9.2015 16:23:46] » Cmds: Carlosxp [0] /darlevel 0 10
+[25.9.2015 16:32:33] » Cmds: Carlosxp [0] /extremo
+[25.9.2015 16:32:35] » Cmds: Carlosxp [0] /legendario
+[25.9.2015 16:32:35] » Cmds: Carlosxp [0] /dios
+[25.9.2015 16:32:38] » Cmds: Carlosxp [0] /balase
+[25.9.2015 16:32:50] » Cmds: Carlosxp [0] /cmd7
+[25.9.2015 16:32:58] » Cmds: Carlosxp [0] /setscore
+[25.9.2015 16:33:2] » Cmds: Carlosxp [0] /setscore 0 29999
+[25.9.2015 16:33:13] » Cmds: Carlosxp [0] /setscore 0 29999
+[25.9.2015 16:33:17] » Cmds: Carlosxp [0] /darallscore 1
+[25.9.2015 16:33:24] » Cmds: Carlosxp [0] /s
+[25.9.2015 16:33:29] » Cmds: Carlosxp [0] /setscore
+[25.9.2015 16:33:31] » Cmds: Carlosxp [0] /setscore 0 0
+[25.9.2015 16:33:38] » Cmds: Carlosxp [0] /setscore 0 29999
+[25.9.2015 16:33:43] » Cmds: Carlosxp [0] /darallscore 1
+[25.9.2015 16:33:51] » Cmds: Carlosxp [0] /balase
+[25.9.2015 16:33:56] » Cmds: Carlosxp [0] /l
+[25.9.2015 16:34:3] » Cmds: Carlosxp [0] /legendario
+[25.9.2015 16:34:5] » Cmds: Carlosxp [0] /dios
+[25.9.2015 21:31:33] » Cmds: Carlosxp [0] /daraxonecash
+[25.9.2015 21:31:36] » Cmds: Carlosxp [0] /darlevel
+[25.9.2015 21:31:38] » Cmds: Carlosxp [0] /darlevel 0 10
+[25.9.2015 21:31:40] » Cmds: Carlosxp [0] /darlevel 0 10
+[25.9.2015 21:32:7] » Cmds: Carlosxp [0] /darlevel
+[25.9.2015 21:32:9] » Cmds: Carlosxp [0] /darlevel 0 9
+[25.9.2015 21:32:12] » Cmds: Carlosxp [0] /daraxonecash
+[25.9.2015 21:32:14] » Cmds: Carlosxp [0] /darlevel 0 1
+[25.9.2015 21:32:16] » Cmds: Carlosxp [0] /daraxonecash
+[25.9.2015 21:32:18] » Cmds: Carlosxp [0] /darlevel 0 0
+[25.9.2015 21:32:19] » Cmds: Carlosxp [0] /daraxonecash
+[25.9.2015 21:32:23] » Cmds: Carlosxp [0] /darlevel 0 12
+[25.9.2015 21:32:24] » Cmds: Carlosxp [0] /darlevel 0 11
+[25.9.2015 21:32:25] » Cmds: Carlosxp [0] /darlevel 0 10
+[25.9.2015 21:34:25] » Cmds: Carlosxp [0] /daraxonecash
+[25.9.2015 21:34:28] » Cmds: Carlosxp [0] /daraxonecash 0 1
+[25.9.2015 21:37:42] » Cmds: Carlosxp [0] /daraxonecash
+[25.9.2015 21:37:45] » Cmds: Carlosxp [0] /daraxonecash 0 50
+[25.9.2015 21:47:21] » Cmds: Carlosxp [0] /daraxonecash
+[25.9.2015 21:47:22] » Cmds: Carlosxp [0] /daraxonecash 0 1
+[25.9.2015 21:47:24] » Cmds: Carlosxp [0] /daraxonecash 0 2
+[25.9.2015 21:47:26] » Cmds: Carlosxp [0] /daraxonecash 0 50
+[25.9.2015 21:50:16] » Cmds: Carlosxp [0] /daraxonecash
+[25.9.2015 21:50:18] » Cmds: Carlosxp [0] /daraxonecash 0 -1
+[25.9.2015 21:50:22] » Cmds: Carlosxp [0] /daraxonecash 0 -52
+[25.9.2015 22:9:7] » Cmds: Carlosxp [0] /daraxonecash
+[25.9.2015 22:9:10] » Cmds: Carlosxp [0] /daraxonecash 0 1
+[25.9.2015 22:9:13] » Cmds: Carlosxp [0] /atienda
+[25.9.2015 22:9:16] » Cmds: Carlosxp [0] /daraxonecash 0 4
+[25.9.2015 22:9:17] » Cmds: Carlosxp [0] /atienda
+[25.9.2015 22:9:30] » Cmds: Carlosxp [0] /atienda
+[25.9.2015 22:9:32] » Cmds: Carlosxp [0] /atienda
+[25.9.2015 22:9:39] » Cmds: Carlosxp [0] /atienda
+[25.9.2015 22:9:42] » Cmds: Carlosxp [0] /atienda
+[25.9.2015 22:15:19] » Cmds: Carlosxp [0] /atienda
+[25.9.2015 22:15:26] » Cmds: Carlosxp [0] /daraxonecash
+[25.9.2015 22:15:28] » Cmds: Carlosxp [0] /daraxonecash 0 5
+[25.9.2015 22:15:30] » Cmds: Carlosxp [0] /atienda
+[25.9.2015 22:15:34] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:29:9] » Cmds: Carlosxp [0] /setvip
+[26.9.2015 0:29:12] » Cmds: Carlosxp [0] /setvip 0 0
+[26.9.2015 0:29:13] » Cmds: Carlosxp [0] /setvip 0 0
+[26.9.2015 0:29:15] » Cmds: Carlosxp [0] /setscore
+[26.9.2015 0:29:18] » Cmds: Carlosxp [0] /setscore 0 0
+[26.9.2015 0:29:26] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:29:29] » Cmds: Carlosxp [0] /daraxonecash
+[26.9.2015 0:29:33] » Cmds: Carlosxp [0] /daraxonecash 0 5
+[26.9.2015 0:29:37] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:29:57] » Cmds: Carlosxp [0] /daraxonecash
+[26.9.2015 0:30:0] » Cmds: Carlosxp [0] /daraxonecash 1 5
+[26.9.2015 0:30:8] » Cmds: Sr.[F]ran [1] /atienda
+[26.9.2015 0:30:35] » Cmds: Carlosxp [0] /darlevel 1 10
+[26.9.2015 0:30:39] » Cmds: Carlosxp [0] /daraxonecash
+[26.9.2015 0:30:52] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:30:53] » Cmds: Sr.[F]ran [1] /atienda
+[26.9.2015 0:31:2] » Cmds: Carlosxp [0] /daraxonecash 1 60
+[26.9.2015 0:31:6] » Cmds: Carlosxp [0] /daraxonecash 0 60
+[26.9.2015 0:31:14] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:31:16] » Cmds: Sr.[F]ran [1] /atienda
+[26.9.2015 0:31:42] » Cmds: Carlosxp [0] /daraxonecash
+[26.9.2015 0:31:44] » Cmds: Carlosxp [0] /daraxonecash 0 15
+[26.9.2015 0:31:51] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:31:57] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:32:3] » Cmds: Carlosxp [0] /daraxonecash
+[26.9.2015 0:32:4] » Cmds: Carlosxp [0] /daraxonecash 1 0
+[26.9.2015 0:32:9] » Cmds: Carlosxp [0] /daraxonecash 1 0
+[26.9.2015 0:32:13] » Cmds: Carlosxp [0] /daraxonecash 0 0
+[26.9.2015 0:32:19] » Cmds: Carlosxp [0] /daraxonecash 1 - 50
+[26.9.2015 0:32:21] » Cmds: Carlosxp [0] /daraxonecash 1 - 50
+[26.9.2015 0:32:27] » Cmds: Carlosxp [0] /daraxonecash 1 -50
+[26.9.2015 0:32:33] » Cmds: Carlosxp [0] /daraxonecash 0 -50
+[26.9.2015 0:32:52] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:32:57] » Cmds: Carlosxp [0] /daraxpmecas
+[26.9.2015 0:33:2] » Cmds: Carlosxp [0] /daraxonecash
+[26.9.2015 0:33:6] » Cmds: Carlosxp [0] /daraxonecash 0 50
+[26.9.2015 0:33:9] » Cmds: Carlosxp [0] /daraxonecash 0 50
+[26.9.2015 0:33:37] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:33:43] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:33:45] » Cmds: Sr.[F]ran [1] /atienda
+[26.9.2015 0:34:53] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:34:57] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:35:11] » Cmds: Carlosxp [0] /daraxonecash
+[26.9.2015 0:35:22] » Cmds: Sr.[F]ran [1] /daraxonecash
+[26.9.2015 0:35:26] » Cmds: Sr.[F]ran [1] /daraxonecash 0 5000
+[26.9.2015 0:35:32] » Cmds: Sr.[F]ran [1] /daraxonecash 1 5000
+[26.9.2015 0:35:35] » Cmds: Sr.[F]ran [1] /daraxonecash 1 5000000000000000000
+[26.9.2015 0:37:41] » Cmds: Sr.[F]ran [1] /elocidad
+[26.9.2015 0:37:47] » Cmds: Sr.[F]ran [1] /velocidad
+[26.9.2015 0:37:55] » Cmds: Carlosxp [0] /darlevel 1 0
+[26.9.2015 0:38:1] » Cmds: Carlosxp [0] /fakecmd 1 /gay
+[26.9.2015 0:38:9] » Cmds: Carlosxp [0] /ban 1 Fuera pta
+[26.9.2015 0:38:13] » Cmds: Carlosxp [0] /ban 1 Fuera pta
+[26.9.2015 0:38:18] » Cmds: Carlosxp [0] /fakecmd 1 /gay
+[26.9.2015 0:38:21] » Cmds: Carlosxp [0] /ban 1 Fuera pta
+[26.9.2015 0:38:23] » Cmds: Carlosxp [0] /ban 1 Fuera pta
+[26.9.2015 0:38:30] » Cmds: Carlosxp [0] /darlevel 1 0
+[26.9.2015 0:38:31] » Cmds: Carlosxp [0] /ban 1 Fuera pta
+[26.9.2015 0:38:38] » Cmds: Carlosxp [0] /warn 1 fuera
+[26.9.2015 0:38:39] » Cmds: Carlosxp [0] /warn 1 fuera
+[26.9.2015 0:38:39] » Cmds: Carlosxp [0] /warn 1 fuera
+[26.9.2015 0:39:6] » Cmds: Carlosxp [0] /daraxonecash
+[26.9.2015 0:39:12] » Cmds: Carlosxp [0] /daraxonecash 0 -5030
+[26.9.2015 0:39:34] » Cmds: Carlosxp [0] /daraxonecash
+[26.9.2015 0:39:40] » Cmds: Carlosxp [0] /daraxonecash 0 5
+[26.9.2015 0:39:47] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:39:55] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:39:57] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:39:58] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:40:1] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:40:2] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:40:4] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:40:7] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:40:11] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 0:40:13] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:10:30] » Cmds: Carlosxp [0] /daraxonecash
+[26.9.2015 14:10:33] » Cmds: Carlosxp [0] /daraxonecash 0 1
+[26.9.2015 14:10:45] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:10:47] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:10:59] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:11:2] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:11:3] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:11:4] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:16] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:20] » Cmds: Carlosxp [0] /daraxonecash
+[26.9.2015 14:12:23] » Cmds: Carlosxp [0] /daraxonecash 0 4
+[26.9.2015 14:12:25] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:29] » Cmds: Carlosxp [0] /daraxonecash 0 -
+[26.9.2015 14:12:30] » Cmds: Carlosxp [0] /daraxonecash 0 -4
+[26.9.2015 14:12:33] » Cmds: Carlosxp [0] /daraxonecash 0 -4
+[26.9.2015 14:12:35] » Cmds: Carlosxp [0] /daraxonecash 0 1
+[26.9.2015 14:12:40] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:44] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:47] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:49] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:51] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:53] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:54] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:55] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:56] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:56] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:57] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:12:58] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:13:0] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 14:13:0] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 18:49:5] » Cmds: Carlosxp [0] /darlevel
+[26.9.2015 18:49:7] » Cmds: Carlosxp [0] /darlevel 0 0
+[26.9.2015 18:49:8] » Cmds: Carlosxp [0] /spawn
+[26.9.2015 18:49:12] » Cmds: Carlosxp [0] /darlevel 0 1
+[26.9.2015 18:49:13] » Cmds: Carlosxp [0] /spawn
+[26.9.2015 18:49:15] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:49:20] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:49:22] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:49:33] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:49:37] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:49:42] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:49:44] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:49:48] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:50:25] » Cmds: Carlosxp [0] /lgoto -1628.9723, 743.6214, -4.8828
+[26.9.2015 18:50:28] » Cmds: Carlosxp [0] /darlevel
+[26.9.2015 18:50:29] » Cmds: Carlosxp [0] /darlevel 0 3
+[26.9.2015 18:50:30] » Cmds: Carlosxp [0] /darlevel
+[26.9.2015 18:50:32] » Cmds: Carlosxp [0] /lgoto -1628.9723, 743.6214, -4.8828
+[26.9.2015 18:51:8] » Cmds: Carlosxp [0] /lgoto 756.7198, -1375.8524, 12.7473
+[26.9.2015 18:51:10] » Cmds: Carlosxp [0] /lgoto 756.7198, -1375.8524, 12.7473
+[26.9.2015 18:51:11] » Cmds: Carlosxp [0] /fly
+[26.9.2015 18:51:14] » Cmds: Carlosxp [0] /fly
+[26.9.2015 18:51:20] » Cmds: Carlosxp [0] /setmundo 0 1
+[26.9.2015 18:51:21] » Cmds: Carlosxp [0] /setmundo 0 0
+[26.9.2015 18:51:29] » Cmds: Carlosxp [0] /lgoto 756.7198, -1375.8524, 12.7473
+[26.9.2015 18:51:36] » Cmds: Carlosxp [0] /lgoto -1628.9723, 743.6214, -4.8828
+[26.9.2015 18:51:48] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:51:50] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:51:55] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:51:58] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:1] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:4] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:7] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:9] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:13] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:14] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:16] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:19] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:20] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:22] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:25] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:27] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:29] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:30] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:31] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:32] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:36] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:37] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:39] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:40] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:41] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:43] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:45] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:54] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:52:57] » Cmds: Carlosxp [0] /spawn 0
+[26.9.2015 18:53:2] » Cmds: Carlosxp [0] /fly
+[26.9.2015 18:53:7] » Cmds: Carlosxp [0] /setvip 0 9
+[26.9.2015 18:53:11] » Cmds: Carlosxp [0] /darlevel 0 10
+[26.9.2015 18:53:12] » Cmds: Carlosxp [0] /setvip 0 9
+[26.9.2015 18:53:14] » Cmds: Carlosxp [0] /flu
+[26.9.2015 18:53:15] » Cmds: Carlosxp [0] /fly
+[26.9.2015 18:54:29] » Cmds: Carlosxp [0] /fly
+[26.9.2015 18:56:47] » Cmds: Carlosxp [0] /darlevel 0
+[26.9.2015 18:56:49] » Cmds: Carlosxp [0] /darlevel 0 0
+[26.9.2015 19:12:52] » Cmds: Carlosxp [0] /setex
+[26.9.2015 19:12:57] » Cmds: Carlosxp [0] /darlevel
+[26.9.2015 19:12:59] » Cmds: Carlosxp [0] /darlevel 0 1
+[26.9.2015 19:13:1] » Cmds: Carlosxp [0] /adminarea
+[26.9.2015 19:13:24] » Cmds: Carlosxp [0] /darlevel
+[26.9.2015 19:13:25] » Cmds: Carlosxp [0] /darlevel 0 10
+[26.9.2015 19:14:15] » Cmds: Carlosxp [0] /setex
+[26.9.2015 19:14:17] » Cmds: Carlosxp [0] /setex 0 0
+[26.9.2015 19:26:32] » Cmds: Carlosxp [0] /setex
+[26.9.2015 19:26:35] » Cmds: Carlosxp [0] /setex 0 0
+[26.9.2015 19:26:51] » Cmds: Carlosxp [0] /setex 0 1000
+[26.9.2015 19:26:56] » Cmds: Carlosxp [0] /setex 0 1001
+[26.9.2015 19:27:5] » Cmds: Carlosxp [0] /setex 0 25001
+[26.9.2015 19:27:10] » Cmds: Carlosxp [0] /setex 0 25000
+[26.9.2015 19:44:17] » Cmds: Carlosxp [0] /daraxonecash
+[26.9.2015 19:44:19] » Cmds: Carlosxp [0] /daraxonecash 0 1
+[26.9.2015 19:44:26] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 19:44:27] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 19:44:28] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 19:44:28] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 19:44:29] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 19:44:30] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 19:44:30] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 19:44:31] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 19:44:32] » Cmds: Carlosxp [0] /atienda
+[26.9.2015 19:44:36] » Cmds: Carlosxp [0] /atienda
+[27.9.2015 2:2:45] » Cmds: Olanda [0] /darlevel
+[27.9.2015 3:3:10] » Cmds: Sr.[F]ran [1] /ban
+[27.9.2015 3:3:15] » Cmds: Sr.[F]ran [1] /darlevel 1 10
+[27.9.2015 3:3:20] » Cmds: Sr.[F]ran [1] /ban 0 Gordo
+[27.9.2015 3:3:29] » Cmds: Sr.[F]ran [1] /ban 0 Gordo
+[27.9.2015 3:3:57] » Cmds: pakyose [0] /ban
+[27.9.2015 3:3:59] » Cmds: pakyose [0] /darlevel
+[27.9.2015 3:4:8] » Cmds: Sr.[F]ran [1] /darscore 0 30
+[27.9.2015 3:4:14] » Cmds: Sr.[F]ran [1] /lauto
+[27.9.2015 3:4:16] » Cmds: Sr.[F]ran [1] /velocidad
+[27.9.2015 3:4:21] » Cmds: Sr.[F]ran [1] /ban 0 Gordo
+[27.9.2015 3:4:39] » Cmds: Sr.[F]ran [1] /relogear
+[27.9.2015 3:5:58] » Cmds: Sr.[F]ran [0] /ban 1 Gordo
+[27.9.2015 3:6:18] » Cmds: Sr.[F]ran [0] /darscore 1 30
+[27.9.2015 3:6:26] » Cmds: alguiennose [1] /ban
+[27.9.2015 3:6:30] » Cmds: Sr.[F]ran [0] /ban 1 Gordo
+[27.9.2015 3:6:47] » Cmds: Sr.[F]ran [0] /rban 1 Gordo
+[27.9.2015 3:10:38] » Cmds: Sr.[F]ran [0] /unban
+[27.9.2015 3:11:16] » Cmds: Sr.[F]ran [0] /unban
+[27.9.2015 3:15:4] » Cmds: Carlosxp [1] /adminarea
+[27.9.2015 3:15:16] » Cmds: Carlosxp [1] /daraxonecash
+[27.9.2015 3:15:20] » Cmds: Sr.[F]ran [0] /velocidad
+[27.9.2015 3:15:31] » Cmds: Carlosxp [1] /daraxonecash 0 1
+[27.9.2015 3:16:34] » Cmds: Carlosxp [1] /a
+[27.9.2015 3:16:35] » Cmds: Carlosxp [1] /menuescopetas
+[27.9.2015 3:16:35] » Cmds: Carlosxp [1] /shotgun
+[27.9.2015 3:17:26] » Cmds: Carlosxp [1] /spawn
+[27.9.2015 3:17:27] » Cmds: Carlosxp [1] /spawn 0
+[27.9.2015 3:17:30] » Cmds: Carlosxp [1] /goto 0
+[27.9.2015 3:17:37] » Cmds: Carlosxp [1] /setmundo
+[27.9.2015 3:17:39] » Cmds: Carlosxp [1] /setmundo 0 0
+[27.9.2015 3:17:42] » Cmds: Carlosxp [1] /setmundo 1 0
+[27.9.2015 3:17:45] » Cmds: Carlosxp [1] /spawn 0
+[27.9.2015 3:17:51] » Cmds: Carlosxp [1] /goto 0
+[27.9.2015 3:17:55] » Cmds: Carlosxp [1] /fly
+[27.9.2015 3:18:38] » Cmds: Sr.[F]ran [0] /flip
+[27.9.2015 3:19:1] » Cmds: Carlosxp [1] /fly
+[27.9.2015 3:19:4] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:19:18] » Cmds: Carlosxp [1] /fly
+[27.9.2015 3:19:57] » Cmds: Carlosxp [1] /fly
+[27.9.2015 3:20:4] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:20:11] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:20:16] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:20:17] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:20:17] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:20:17] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:21:11] » Cmds: Sr.[F]ran [0] /velocidad
+[27.9.2015 3:21:26] » Cmds: Sr.[F]ran [0] /velocidad
+[27.9.2015 3:21:31] » Cmds: Sr.[F]ran [0] /stoprace
+[27.9.2015 3:21:36] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:21:36] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:21:37] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:21:37] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:21:38] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:21:38] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:21:46] » Cmds: Sr.[F]ran [0] /godcar
+[27.9.2015 3:23:9] » Cmds: Sr.[F]ran [0] /flip
+[27.9.2015 3:23:10] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:23:12] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:23:13] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:23:17] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:23:18] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:23:18] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:23:19] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:23:19] » Cmds: Carlosxp [1] /stoprace
+[27.9.2015 3:23:27] » Cmds: Carlosxp [1] /salir
+[27.9.2015 3:23:31] » Cmds: Carlosxp [1] /spec
+[27.9.2015 3:23:32] » Cmds: Carlosxp [1] /spec 0
+[27.9.2015 3:23:34] » Cmds: Carlosxp [1] /specoff
+[27.9.2015 3:23:40] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:24:59] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:25:7] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:29:17] » Cmds: Carlosxp [1] /lockcar
+[27.9.2015 3:29:20] » Cmds: Carlosxp [1] /unlockcar
+[27.9.2015 3:29:24] » Cmds: Carlosxp [1] /darallscore 1
+[27.9.2015 3:29:26] » Cmds: Carlosxp [1] /darallcash 1
+[27.9.2015 3:29:29] » Cmds: Carlosxp [1] /darallnivel 1
+[27.9.2015 3:29:44] » Cmds: Carlosxp [1] /enable readcmd
+[27.9.2015 3:29:45] » Cmds: Carlosxp [1] /enable readcmds
+[27.9.2015 3:29:53] » Cmds: Carlosxp [1] /enable readpms
+[27.9.2015 3:29:54] » Cmds: Sr.[F]ran [0] /crash
+[27.9.2015 3:32:44] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:32:58] » Cmds: Carlosxp [1] /level9
+[27.9.2015 3:33:1] » Cmds: Carlosxp [1] /god
+[27.9.2015 3:33:35] » Cmds: Carlosxp [1] /setvip
+[27.9.2015 3:33:36] » Cmds: Carlosxp [1] /setvip 0 9
+[27.9.2015 3:33:40] » Cmds: Carlosxp [1] /setvip 1 9
+[27.9.2015 3:34:46] » Cmds: Sr.[F]ran [0] /flip
+[27.9.2015 3:35:25] » Cmds: Carlosxp [1] /god
+[27.9.2015 3:35:43] » Cmds: Sr.[F]ran [0] /Flip
+[27.9.2015 3:36:47] » Cmds: Sr.[F]ran [0] /flip
+[27.9.2015 3:36:51] » Cmds: Carlosxp [1] /muteall
+[27.9.2015 3:37:0] » Cmds: Carlosxp [1] /unmuteall
+[27.9.2015 3:37:6] » Cmds: Sr.[F]ran [0] /schat
+[27.9.2015 3:37:17] » Cmds: Carlosxp [1] /cchat
+[27.9.2015 3:37:25] » Cmds: Carlosxp [1] /asay asd
+[27.9.2015 3:37:26] » Cmds: Sr.[F]ran [0] /schat
+[27.9.2015 3:37:32] » Cmds: Carlosxp [1] /admins
+[27.9.2015 3:37:45] » Cmds: Carlosxp [1] /uconfig
+[27.9.2015 3:37:50] » Cmds: Carlosxp [1] /uconfig
+[27.9.2015 3:37:55] » Cmds: Carlosxp [1] /uconfig
+[27.9.2015 3:37:55] » Cmds: Sr.[F]ran [0] /uconfig
+[27.9.2015 3:37:56] » Cmds: Carlosxp [1] /uconfig
+[27.9.2015 3:37:56] » Cmds: Carlosxp [1] /uconfig
+[27.9.2015 3:37:57] » Cmds: Carlosxp [1] /uconfig
+[27.9.2015 3:37:57] » Cmds: Carlosxp [1] /uconfig
+[27.9.2015 3:37:57] » Cmds: Carlosxp [1] /uconfig
+[27.9.2015 3:37:58] » Cmds: Sr.[F]ran [0] /uconfig
+[27.9.2015 3:37:58] » Cmds: Sr.[F]ran [0] /uconfig
+[27.9.2015 3:37:59] » Cmds: Sr.[F]ran [0] /uconfig
+[27.9.2015 3:37:59] » Cmds: Sr.[F]ran [0] /uconfig
+[27.9.2015 3:38:0] » Cmds: Sr.[F]ran [0] /uconfigt
+[27.9.2015 3:38:0] » Cmds: Sr.[F]ran [0] /uconfigt
+[27.9.2015 3:38:0] » Cmds: Sr.[F]ran [0] /uconfigt
+[27.9.2015 3:38:3] » Cmds: Sr.[F]ran [0] /explotarall
+[27.9.2015 3:38:4] » Cmds: Sr.[F]ran [0] /explotarall
+[27.9.2015 3:38:4] » Cmds: Sr.[F]ran [0] /explotarall
+[27.9.2015 3:38:4] » Cmds: Sr.[F]ran [0] /explotarall
+[27.9.2015 3:38:5] » Cmds: Sr.[F]ran [0] /explotarall
+[27.9.2015 3:38:5] » Cmds: Sr.[F]ran [0] /explotarall
+[27.9.2015 3:38:5] » Cmds: Sr.[F]ran [0] /explotarall
+[27.9.2015 3:38:5] » Cmds: Sr.[F]ran [0] /explotarall
+[27.9.2015 3:38:8] » Cmds: Sr.[F]ran [0] /flip
+[27.9.2015 3:38:11] » Cmds: Carlosxp [1] /lockserver
+[27.9.2015 3:38:14] » Cmds: Carlosxp [1] /lockserver 1234
+[27.9.2015 3:38:22] » Cmds: Carlosxp [1] /unlockserver
+[27.9.2015 3:38:40] » Cmds: Carlosxp [1] /lcredits
+[27.9.2015 3:38:53] » Cmds: Sr.[F]ran [0] /lcredits
+[27.9.2015 3:39:34] » Cmds: Carlosxp [1] /settiempo
+[27.9.2015 3:39:39] » Cmds: Carlosxp [1] /settiempo 0 0 0 0
+[27.9.2015 3:39:48] » Cmds: Sr.[F]ran [0] /flip
+[27.9.2015 3:39:53] » Cmds: Carlosxp [1] /goto 0
+[27.9.2015 3:39:54] » Cmds: Carlosxp [1] /goto 0
+[27.9.2015 3:39:55] » Cmds: Carlosxp [1] /goto 0
+[27.9.2015 3:40:24] » Cmds: Carlosxp [1] /goto 0
+[27.9.2015 3:40:54] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:42:2] » Cmds: Sr.[F]ran [0] /abrir24rl
+[27.9.2015 3:44:22] » Cmds: Sr.[F]ran [0] /flip
+[27.9.2015 3:45:22] » Cmds: Carlosxp [1] /fakecmd 0 /rangos
+[27.9.2015 3:46:21] » Cmds: Carlosxp [1] /setscore 0 145001
+[27.9.2015 3:46:25] » Cmds: Carlosxp [1] /setscore 0 14501
+[27.9.2015 3:46:40] » Cmds: Carlosxp [1] /setex
+[27.9.2015 3:46:43] » Cmds: Carlosxp [1] /setex 0 14501
+[27.9.2015 3:47:18] » Cmds: Carlosxp [1] /resetstat
+[27.9.2015 3:48:22] » Cmds: Carlosxp [1] /level10
+[27.9.2015 3:48:27] » Cmds: Carlosxp [1] /level9
+[27.9.2015 3:48:30] » Cmds: Carlosxp [1] /resetname
+[27.9.2015 3:48:43] » Cmds: Carlosxp [1] /setname
+[27.9.2015 3:48:50] » Cmds: Carlosxp [1] /setname 0 puta
+[27.9.2015 3:49:1] » Cmds: puta [0] /flip
+[27.9.2015 3:49:11] » Cmds: puta [0] /velocidad
+[27.9.2015 3:49:12] » Cmds: Carlosxp [1] /setname 0 Sr.[F]ran
+[27.9.2015 3:49:22] » Cmds: Sr.[F]ran [0] /velocidad
+[27.9.2015 3:50:16] » Cmds: Sr.[F]ran [0] /godcar
+[27.9.2015 3:50:24] » Cmds: Carlosxp [1] /recompensa
+[27.9.2015 3:50:35] » Cmds: Carlosxp [1] /setcash
+[27.9.2015 3:50:40] » Cmds: Carlosxp [1] /setcash 1 999999999
+[27.9.2015 3:50:42] » Cmds: Carlosxp [1] /recompensa
+[27.9.2015 3:50:49] » Cmds: Carlosxp [1] /recompensa 0 9000000
+[27.9.2015 3:51:15] » Cmds: Carlosxp [1] /dardinero
+[27.9.2015 3:51:16] » Cmds: Sr.[F]ran [0] /darscore
+[27.9.2015 3:51:16] » Cmds: Carlosxp [1] /dardinero
+[27.9.2015 3:51:21] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:21] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:21] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:22] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:22] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:22] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:23] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:23] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:24] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:24] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:24] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:25] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:25] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:25] » Cmds: Carlosxp [1] /dardinero 0 10000
+[27.9.2015 3:51:28] » Cmds: Carlosxp [1] /dardinero 0 100000
+[27.9.2015 3:51:36] » Cmds: Carlosxp [1] /setname
+[27.9.2015 3:51:38] » Cmds: Carlosxp [1] /setname 1 asd
+[27.9.2015 3:51:51] » Cmds: asd [1] /setname 1 Carlosxp
+[27.9.2015 3:52:1] » Cmds: Carlosxp [1] /spawn
+[27.9.2015 3:52:3] » Cmds: Carlosxp [1] /spawn 1
+[27.9.2015 3:52:8] » Cmds: Carlosxp [1] /kill
+[27.9.2015 3:52:17] » Cmds: Carlosxp [1] /force 1
+[27.9.2015 3:53:11] » Cmds: Carlosxp [1] /fakecmd
+[27.9.2015 3:53:13] » Cmds: Carlosxp [1] /fakecmd 0 /kill
+[27.9.2015 3:53:13] » Cmds: Sr.[F]ran [0] /kill
+[27.9.2015 3:53:57] » Cmds: Carlosxp [1] /get 0
+[27.9.2015 3:54:59] » Cmds: Sr.[F]ran [0] /flip
+[27.9.2015 3:56:41] » Cmds: Carlosxp [1] /dardinero 0 10001
+[27.9.2015 3:57:50] » Cmds: Carlosxp [1] /setscore
+[27.9.2015 3:57:54] » Cmds: Carlosxp [1] /setvip 0 0
+[27.9.2015 3:57:58] » Cmds: Carlosxp [1] /setscore 0 0
+[27.9.2015 3:58:0] » Cmds: Carlosxp [1] /setvip 0 0
+[27.9.2015 3:58:36] » Cmds: Carlosxp [1] /setvip
+[27.9.2015 3:58:38] » Cmds: Carlosxp [1] /setvip 1 0
+[27.9.2015 3:59:2] » Cmds: Carlosxp [1] /setvip 1 1
+[27.9.2015 3:59:4] » Cmds: Carlosxp [1] /setvip 1 2
+[27.9.2015 3:59:6] » Cmds: Carlosxp [1] /setvip 1 3
+[27.9.2015 3:59:7] » Cmds: Carlosxp [1] /setvip 1 4
+[27.9.2015 3:59:8] » Cmds: Carlosxp [1] /setvip 1 5
+[27.9.2015 3:59:8] » Cmds: Carlosxp [1] /setvip 1 6
+[27.9.2015 3:59:9] » Cmds: Carlosxp [1] /setvip 1 7
+[27.9.2015 3:59:10] » Cmds: Carlosxp [1] /setvip 1 8
+[27.9.2015 3:59:12] » Cmds: Carlosxp [1] /setvip 1 9
+[27.9.2015 3:59:14] » Cmds: Carlosxp [1] /setvip 1 0
+[27.9.2015 3:59:37] » Cmds: Sr.[F]ran [0] /flio
+[27.9.2015 3:59:40] » Cmds: Sr.[F]ran [0] /flip
+[27.9.2015 4:2:2] » Cmd: Carlosxp [1] /setvip 0 9
+[27.9.2015 4:2:3] » Cmd: Carlosxp [1] /setvip 0 0
+[27.9.2015 4:2:16] » Cmd: Carlosxp [1] /fakecmd 0 /setvip 1 9
+[27.9.2015 4:2:16] » Cmd: Sr.[F]ran [0] /setvip
+[27.9.2015 4:2:17] » Cmd: Carlosxp [1] /fakecmd 0 /setvip 1 0
+[27.9.2015 4:2:17] » Cmd: Sr.[F]ran [0] /setvip
+[27.9.2015 4:2:27] » Cmd: Sr.[F]ran [0] /esmeralda
+[27.9.2015 4:2:37] » Cmd: Sr.[F]ran [0] /diamond
+[27.9.2015 4:2:37] » Cmd: Sr.[F]ran [0] /extremo
+[27.9.2015 4:2:38] » Cmd: Sr.[F]ran [0] /legendario
+[27.9.2015 4:2:39] » Cmd: Sr.[F]ran [0] /dios
+[27.9.2015 4:2:42] » Cmd: Carlosxp [1] /get 0
+[27.9.2015 4:2:44] » Cmd: Carlosxp [1] /get 0
+[27.9.2015 4:2:49] » Cmd: Carlosxp [1] /god
+[27.9.2015 4:2:56] » Cmd: Carlosxp [1] /darscire 
+[27.9.2015 4:2:59] » Cmd: Carlosxp [1] /darscore 0 999
+[27.9.2015 4:3:15] » Cmd: Carlosxp [1] /darscore 0 2400
+[27.9.2015 4:3:32] » Cmd: Carlosxp [1] /darscore 0 1400
+[27.9.2015 4:3:39] » Cmd: Carlosxp [1] /setvip 0 9
+[27.9.2015 4:4:2] » Cmd: Carlosxp [1] /a
+[27.9.2015 4:4:20] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:21] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:21] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:22] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:22] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:26] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:26] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:26] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:27] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:27] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:27] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:28] » Cmd: Carlosxp [1] /slapallt
+[27.9.2015 4:4:29] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:29] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:30] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:30] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:30] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:31] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:31] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:32] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:32] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:32] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:33] » Cmd: Sr.[F]ran [0] /god
+[27.9.2015 4:4:39] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:39] » Cmd: Carlosxp [1] /fakecmd 0 /god
+[27.9.2015 4:4:39] » Cmd: Sr.[F]ran [0] /god
+[27.9.2015 4:4:39] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:39] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:39] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:40] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:40] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:40] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:40] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:41] » Cmd: Carlosxp [1] /fakecmd 0 /kill
+[27.9.2015 4:4:41] » Cmd: Sr.[F]ran [0] /kill
+[27.9.2015 4:4:41] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:41] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:42] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:42] » Cmd: Sr.[F]ran [0] /slapallt
+[27.9.2015 4:4:42] » Cmd: Sr.[F]ran [0] /slapallt
+[27.9.2015 4:4:42] » Cmd: Sr.[F]ran [0] /slapallt
+[27.9.2015 4:4:47] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:48] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:49] » Cmd: Sr.[F]ran [0] /slapall
+[27.9.2015 4:4:49] » Cmd: Sr.[F]ran [0] /slapallt
+[27.9.2015 4:4:49] » Cmd: Sr.[F]ran [0] /slapalltt
+[27.9.2015 4:4:50] » Cmd: Sr.[F]ran [0] /slapalltt
+[27.9.2015 4:4:50] » Cmd: Sr.[F]ran [0] /slapalltt
+[27.9.2015 4:4:53] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:53] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:53] » Cmd: Sr.[F]ran [0] /goto 1
+[27.9.2015 4:4:53] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:54] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:54] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:54] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:55] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:55] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:55] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:56] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:56] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:57] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:57] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:57] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:58] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:58] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:58] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:59] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:4:59] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:5:0] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:5:0] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:5:0] » Cmd: Carlosxp [1] /slapallt
+[27.9.2015 4:5:2] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:5:2] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:5:3] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:5:3] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:5:3] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:5:3] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:4] » Cmd: Carlosxp [1] /slapall
+[27.9.2015 4:5:4] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:4] » Cmd: Sr.[F]ran [0] /explotarallt
+[27.9.2015 4:5:4] » Cmd: Sr.[F]ran [0] /explotarallt
+[27.9.2015 4:5:4] » Cmd: Sr.[F]ran [0] /explotarallt
+[27.9.2015 4:5:5] » Cmd: Sr.[F]ran [0] /explotarallt
+[27.9.2015 4:5:5] » Cmd: Sr.[F]ran [0] /explotarallt
+[27.9.2015 4:5:5] » Cmd: Sr.[F]ran [0] /explotarallt
+[27.9.2015 4:5:7] » Cmd: Sr.[F]ran [0] /explotaral
+[27.9.2015 4:5:8] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:9] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:10] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:10] » Cmd: Sr.[F]ran [0] /explotarallt
+[27.9.2015 4:5:11] » Cmd: Sr.[F]ran [0] /explotarallt
+[27.9.2015 4:5:11] » Cmd: Sr.[F]ran [0] /explotarallt
+[27.9.2015 4:5:11] » Cmd: Sr.[F]ran [0] /explotaralltt
+[27.9.2015 4:5:12] » Cmd: Carlosxp [1] /explotarall
+[27.9.2015 4:5:12] » Cmd: Carlosxp [1] /explotarall
+[27.9.2015 4:5:13] » Cmd: Carlosxp [1] /explotarall
+[27.9.2015 4:5:13] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:13] » Cmd: Carlosxp [1] /explotarall
+[27.9.2015 4:5:14] » Cmd: Sr.[F]ran [0] /explotaralltt
+[27.9.2015 4:5:14] » Cmd: Sr.[F]ran [0] /explotarallttt
+[27.9.2015 4:5:14] » Cmd: Sr.[F]ran [0] /explotaralltttt
+[27.9.2015 4:5:15] » Cmd: Sr.[F]ran [0] /explotaralltttt
+[27.9.2015 4:5:17] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:17] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:18] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:19] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:20] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:20] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:20] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:21] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:21] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:21] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:21] » Cmd: Carlosxp [1] /darlevel 0 9
+[27.9.2015 4:5:22] » Cmd: Sr.[F]ran [0] /explotarallt
+[27.9.2015 4:5:24] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:25] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:25] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:26] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:26] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:26] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:27] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:28] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:29] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:30] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:30] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:30] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:31] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:31] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:32] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:32] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:33] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:33] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:33] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:34] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:34] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:34] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:34] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:34] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:35] » Cmd: Sr.[F]ran [0] /explotarall
+[27.9.2015 4:5:35] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:35] » Cmd: Carlosxp [1] /explotar 0
+[27.9.2015 4:5:41] » Cmd: Sr.[F]ran [0] /goto 1
+[27.9.2015 4:6:10] » Cmd: Sr.[F]ran [0] /velocidad
+[27.9.2015 4:6:23] » Cmd: Sr.[F]ran [0] /godcar
+[27.9.2015 4:6:26] » Cmd: Carlosxp [1] /balase
+[27.9.2015 4:9:14] » Cmd: Carlosxp [1] /respawncars
+[27.9.2015 4:10:5] » Cmd: Carlosxp [1] /velocidad
+[27.9.2015 4:10:8] » Cmd: Carlosxp [1] /setvip
+[27.9.2015 4:10:10] » Cmd: Carlosxp [1] /setvip 1 9
+[27.9.2015 4:10:15] » Cmd: Carlosxp [1] /velocidad
+[27.9.2015 4:11:26] » Cmd: Carlosxp [1] /fix
+[27.9.2015 4:11:27] » Cmd: Carlosxp [1] /godcar
+[27.9.2015 4:15:24] » Cmd: Carlosxp [1] /fakecmd
+[27.9.2015 4:15:26] » Cmd: Carlosxp [1] /fakecmd 0 /noche
+[27.9.2015 4:16:11] » Cmd: Carlosxp [1] /flip
+[27.9.2015 4:16:22] » Cmd: Carlosxp [1] /vflip
+[27.9.2015 4:16:24] » Cmd: Carlosxp [1] /vflip 0
+[27.9.2015 4:17:48] » Cmd: Carlosxp [1] /setname
+[27.9.2015 4:17:52] » Cmd: Carlosxp [1] /setname 0 Checo
+[27.9.2015 14:4:42] » Cmd: Carlosxp [0] /balase
+[27.9.2015 14:37:35] » Cmd: Carlosxp [0] /setvip
+[27.9.2015 14:37:39] » Cmd: Carlosxp [0] /setvip 0 1
+[27.9.2015 14:37:42] » Cmd: Carlosxp [0] /musicarl
+[27.9.2015 14:56:38] » Cmd: Carlosxp [0] /setnivel 0 0
+[27.9.2015 14:57:11] » Cmd: Carlosxp [0] /setnivel
+[27.9.2015 14:57:15] » Cmd: Carlosxp [0] /setnivel 0 1
+[27.9.2015 15:45:49] » Cmd: Carlosxp [0] /setscore
+[27.9.2015 15:45:51] » Cmd: Carlosxp [0] /setscore 0 10
+[27.9.2015 15:45:53] » Cmd: Carlosxp [0] /setex
+[27.9.2015 15:45:54] » Cmd: Carlosxp [0] /setex 0 10
+[27.9.2015 15:46:10] » Cmd: Carlosxp [0] /setnivel 0 0
+[27.9.2015 15:46:16] » Cmd: Carlosxp [0] /setnivel 0 1
+[27.9.2015 15:46:39] » Cmd: Carlosxp [0] /setnivel
+[27.9.2015 15:46:41] » Cmd: Carlosxp [0] /setnivel 0 999
+[27.9.2015 16:22:34] » Cmd: Carlosxp [0] /setnivel
+[27.9.2015 16:22:36] » Cmd: Carlosxp [0] /setnivel 0 9999
+[27.9.2015 16:28:58] » Cmd: Carlosxp [0] /btc
+[27.9.2015 16:29:2] » Cmd: Carlosxp [0] /btc
+[27.9.2015 16:30:7] » Cmd: Carlosxp [0] /BTC
+[27.9.2015 17:42:7] » Cmd: Carlosxp [0] /lauto
+[27.9.2015 17:42:43] » Cmd: Carlosxp [0] /velocidad
+[27.9.2015 17:42:47] » Cmd: Carlosxp [0] /setvip 0 9
+[27.9.2015 17:42:51] » Cmd: Carlosxp [0] /velocidad
+[27.9.2015 17:42:55] » Cmd: Carlosxp [0] /fix
+[27.9.2015 17:42:57] » Cmd: Carlosxp [0] /godcar
+[27.9.2015 17:43:31] » Cmd: Carlosxp [0] /flip
+[27.9.2015 17:44:4] » Cmd: Carlosxp [0] /lbote
+[27.9.2015 17:44:8] » Cmd: Carlosxp [0] /setmundo
+[27.9.2015 17:44:10] » Cmd: Carlosxp [0] /setmundo 0 0
+[27.9.2015 17:44:11] » Cmd: Carlosxp [0] /lbote
+[27.9.2015 17:44:30] » Cmd: Carlosxp [0] /lauto
+[27.9.2015 17:44:37] » Cmd: Carlosxp [0] /flip
+[27.9.2015 17:44:37] » Cmd: Carlosxp [0] /flip
+[27.9.2015 17:44:37] » Cmd: Carlosxp [0] /flip
+[27.9.2015 17:44:38] » Cmd: Carlosxp [0] /flip
+[27.9.2015 18:59:0] » Cmd: [Exo_k]_DeadCandy_ [1] /skin
+[27.9.2015 18:59:2] » Cmd: Carlosxp [0] /get 1
+[27.9.2015 18:59:23] » Cmd: Carlosxp [0] /get 1
+[27.9.2015 19:0:16] » Cmd: Carlosxp [0] /get
+[27.9.2015 19:0:16] » Cmd: Carlosxp [0] /get 2
+[27.9.2015 19:0:19] » Cmd: Carlosxp [0] /darlevel
+[27.9.2015 19:0:20] » Cmd: Sr.[F]ran [2] /darlevel
+[27.9.2015 19:0:20] » Cmd: Carlosxp [0] /darlevel 2 10
+[27.9.2015 19:0:23] » Cmd: Carlosxp [0] /darlevel 1 9
+[27.9.2015 19:0:29] » Cmd: Carlosxp [0] /setscore 2 30
+[27.9.2015 19:0:30] » Cmd: Carlosxp [0] /god
+[27.9.2015 19:0:33] » Cmd: Carlosxp [0] /darallscore 30
+[27.9.2015 19:0:44] » Cmd: Sr.[F]ran [2] /darlevel 2 10
+[27.9.2015 19:0:45] » Cmd: Carlosxp [0] /darlevel 2 30
+[27.9.2015 19:0:48] » Cmd: Carlosxp [0] /darlevel 1 9
+[27.9.2015 19:0:50] » Cmd: Sr.[F]ran [2] /darnivel 2 5000
+[27.9.2015 19:0:52] » Cmd: Carlosxp [0] /darlevel 1 9
+[27.9.2015 19:2:35] » Cmd: Carlosxp [0] /lauto
+[27.9.2015 19:2:49] » Cmd: Carlosxp [0] /velocidad
+[27.9.2015 19:2:55] » Cmd: Carlosxp [0] /lockcar
+[27.9.2015 19:3:9] » Cmd: Carlosxp [0] /adminarea
+[27.9.2015 19:3:17] » Cmd: Carlosxp [0] /lauto
+[27.9.2015 19:3:22] » Cmd: Carlosxp [0] /lockcar
+[27.9.2015 19:3:39] » Cmd: Sr.[F]ran [2] /lauto
+[27.9.2015 19:3:41] » Cmd: Sr.[F]ran [2] /velocidad
+[27.9.2015 19:3:44] » Cmd: Carlosxp [0] /godcar
+[27.9.2015 19:3:46] » Cmd: Sr.[F]ran [2] /setvip 2 9
+[27.9.2015 19:3:49] » Cmd: Sr.[F]ran [2] /velocidad
+[27.9.2015 19:3:57] » Cmd: Sr.[F]ran [2] /godcar
+[27.9.2015 19:4:14] » Cmd: Sr.[F]ran [2] /velocidad
+[27.9.2015 19:4:15] » Cmd: Sr.[F]ran [2] /velocidad
+[27.9.2015 19:4:18] » Cmd: Sr.[F]ran [2] /velocidad
+[27.9.2015 19:4:26] » Cmd: Sr.[F]ran [2] /velocidad
+[27.9.2015 19:4:27] » Cmd: Sr.[F]ran [2] /velocidad
+[27.9.2015 19:4:34] » Cmd: Sr.[F]ran [2] /velocidad
+[27.9.2015 19:5:8] » Cmd: Carlosxp [0] /fakecmd 2 /gay
+[27.9.2015 19:5:10] » Cmd: Carlosxp [0] /fakecmd 2 /kill
+[27.9.2015 19:5:10] » Cmd: [GAY]Sr.[F]ran [2] /kill
+[27.9.2015 19:5:11] » Cmd: Carlosxp [0] /fakecmd 2 /ki
+[27.9.2015 19:5:12] » Cmd: [GAY]Sr.[F]ran [2] /ki
+[27.9.2015 19:5:12] » Cmd: Carlosxp [0] /fu
+[27.9.2015 19:5:14] » Cmd: Carlosxp [0] /fu 2
+[27.9.2015 19:5:16] » Cmd: Carlosxp [0] /fu 2
+[27.9.2015 19:5:16] » Cmd: Carlosxp [0] /fu 2
+[27.9.2015 19:5:17] » Cmd: Carlosxp [0] /fu 2
+[27.9.2015 19:5:17] » Cmd: Carlosxp [0] /fu 2
+[27.9.2015 19:5:17] » Cmd: Carlosxp [0] /fu 2
+[27.9.2015 19:5:18] » Cmd: Carlosxp [0] /fu 2
+[27.9.2015 19:5:18] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /fu 0
+[27.9.2015 19:5:18] » Cmd: [NOOB]Carlosxp [0] /fu 2
+[27.9.2015 19:5:21] » Cmd: [NOOB]Carlosxp [0] /btc
+[27.9.2015 19:5:31] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /setname 0 Checo
+[27.9.2015 19:5:50] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /fu 0
+[27.9.2015 19:5:51] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /fu 0
+[27.9.2015 19:5:51] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /fu 0
+[27.9.2015 19:5:52] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /fu 0
+[27.9.2015 19:5:55] » Cmd: [NOOB][NOOB][NOOB]Carlo [0] /setname 0 Checo
+[27.9.2015 19:5:57] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /fu 0
+[27.9.2015 19:6:18] » Cmd: [NOOB][NOOB][NOOB]Carlo [0] /descongelar 0
+[27.9.2015 19:6:21] » Cmd: [NOOB][NOOB][NOOB]Carlo [0] /congelar 0
+[27.9.2015 19:6:22] » Cmd: [NOOB][NOOB][NOOB]Carlo [0] /descongelar 0
+[27.9.2015 19:7:2] » Cmd: [NOOB][NOOB][NOOB]Carlo [0] /setname
+[27.9.2015 19:7:6] » Cmd: [NOOB][NOOB][NOOB]Carlo [0] /setname 0 Carlosxp-
+[27.9.2015 19:7:18] » Cmd: [NOOB][NOOB][NOOB]Carlo [0] /setname 0 Carlosxp.
+[27.9.2015 19:9:6] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /lmoto
+[27.9.2015 19:10:9] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /clima
+[27.9.2015 19:11:28] » Cmd: Carlosxp [0] /get
+[27.9.2015 19:11:29] » Cmd: Carlosxp [0] /get 2
+[27.9.2015 19:11:30] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /goto 0
+[27.9.2015 19:11:32] » Cmd: Carlosxp [0] /get 2
+[27.9.2015 19:11:59] » Cmd: Carlosxp [0] /lauto
+[27.9.2015 19:12:5] » Cmd: Carlosxp [0] /godcar
+[27.9.2015 19:12:8] » Cmd: Carlosxp [0] /velocidad
+[27.9.2015 19:12:14] » Cmd: Carlosxp [0] /godc
+[27.9.2015 19:12:23] » Cmd: Carlosxp [0] /flip
+[27.9.2015 19:12:48] » Cmd: Carlosxp [0] /flip
+[27.9.2015 19:13:8] » Cmd: Carlosxp [0] /saltarauto
+[27.9.2015 19:13:35] » Cmd: Carlosxp [0] /camarillo
+[27.9.2015 19:13:54] » Cmd: Carlosxp [0] /goto 2
+[27.9.2015 19:13:57] » Cmd: Carlosxp [0] /goto 2
+[27.9.2015 19:14:0] » Cmd: Carlosxp [0] /flip
+[27.9.2015 19:14:3] » Cmd: Carlosxp [0] /get 2
+[27.9.2015 19:14:16] » Cmd: Carlosxp [0] /get 2
+[27.9.2015 19:14:31] » Cmd: Carlosxp [0] /get 2
+[27.9.2015 19:14:33] » Cmd: Carlosxp [0] /get 2
+[27.9.2015 19:14:35] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /flip
+[27.9.2015 19:14:53] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /flip
+[27.9.2015 19:16:39] » Cmd: Carlosxp [0] /mpa 2 Jorge dijo que no le gusta que scriptee mucho :'v
+[27.9.2015 19:16:49] » Cmd: Carlosxp [0] /mpa 2 Que le caigo mal desde ese ámbito porque piensa
+[27.9.2015 19:16:53] » Cmd: Carlosxp [0] /mpa 2 Que quiero competir.
+[27.9.2015 19:17:0] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /pm 0 No le digas a Holanda por favor
+[27.9.2015 19:17:1] » Cmd: Carlosxp [0] /mpa 2 Que quiero competir y ganar.
+[27.9.2015 19:17:7] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /pm 0 .-.
+[27.9.2015 19:17:12] » Cmd: Carlosxp [0] /mpa 2 Por eso lo digo por acá pajero.
+[27.9.2015 19:17:14] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /pm 0 Eso parece ridículo ya..
+[27.9.2015 19:17:28] » Cmd: Carlosxp [0] /mpa 2 Le dije
+[27.9.2015 19:17:38] » Cmd: Carlosxp [0] /mpa 2 ¿Querés que me vaya? Ydijo que no.
+[27.9.2015 19:17:53] » Cmd: Carlosxp [0] /mpa 2 Pero que sólo quería que 
+[27.9.2015 19:17:54] » Cmd: Carlosxp [0] /god
+[27.9.2015 19:18:0] » Cmd: Carlosxp [0] /mpa 2 Pero que sólo quería que entendiera eso.
+[27.9.2015 19:18:15] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /pm 0 Vos seguí haciendo lo que hace Jorge, no te metas en puterío
+[27.9.2015 19:18:24] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /pm 0 Va, lo que hacen ambos
+[27.9.2015 19:18:34] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /pm 0 Jorge básicamente hace lo que vos haces  también
+[27.9.2015 19:18:44] » Cmd: Carlosxp [0] /mpa 2 Sí pero el se enoja por ejemplo
+[27.9.2015 19:18:53] » Cmd: Carlosxp [0] /mpa 2 El sistema de  música.
+[27.9.2015 19:18:56] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /pm 0 Es por el bien del servidor y que se actualice seguido
+[27.9.2015 19:18:58] » Cmd: Carlosxp [0] /mpa 2 Yo lo hice por vos.
+[27.9.2015 19:20:14] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /pm 0 Es que fue buena idea, casi todo lo sugieron, no hace falta que esté
+[27.9.2015 19:20:20] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /asd
+[27.9.2015 19:20:24] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /siete
+[27.9.2015 19:20:37] » Cmd: [NOOB][NOOB][NOOB][NOOB [2] /7
+[27.9.2015 19:21:6] » Cmd: Carlosxp [0] /fakecmd 2 /bye
+[27.9.2015 19:22:17] » Cmd: Carlosxp [0] /fly
+[27.9.2015 19:22:23] » Cmd: Carlosxp [0] /setmundo 1 0
+[27.9.2015 19:22:25] » Cmd: Carlosxp [0] /get 1
+[27.9.2015 19:22:26] » Cmd: Carlosxp [0] /fly
+[27.9.2015 19:22:44] » Cmd: Carlosxp [0] /spawn 1
+[27.9.2015 19:22:45] » Cmd: Carlosxp [0] /spawn
+[27.9.2015 19:22:47] » Cmd: Carlosxp [0] /spawn 0
+[27.9.2015 19:22:52] » Cmd: [Exo_k]_DeadCandy_ [1] /setvip 1 9
+[27.9.2015 19:23:1] » Cmd: [Exo_k]_DeadCandy_ [1] /guardarskin 93
+[27.9.2015 19:23:4] » Cmd: [Exo_k]_DeadCandy_ [1] /usarskin
+[27.9.2015 19:24:28] » Cmd: Carlosxp [0] /camarillo
+[27.9.2015 19:24:30] » Cmd: Carlosxp [0] /guardarskin
+[27.9.2015 19:24:32] » Cmd: Carlosxp [0] /guardarskin 233
+[27.9.2015 19:24:34] » Cmd: Carlosxp [0] /usarskin
+[27.9.2015 19:25:48] » Cmd: Carlosxp [0] /darallscore 30
+[27.9.2015 19:26:1] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:26:8] » Cmd: Sr.[F]ran [3] /goto 0
+[27.9.2015 19:26:19] » Cmd: Sr.[F]ran [3] /setvip 3 9
+[27.9.2015 19:26:24] » Cmd: Sr.[F]ran [3] /vknockou
+[27.9.2015 19:26:27] » Cmd: Sr.[F]ran [3] /goto 1
+[27.9.2015 19:26:35] » Cmd: Sr.[F]ran [3] /goto 0
+[27.9.2015 19:26:36] » Cmd: Carlosxp [0] /mpa 3 kb
+[27.9.2015 19:26:56] » Cmd: Carlosxp [0] /get 3
+[27.9.2015 19:27:0] » Cmd: Carlosxp [0] /get 3
+[27.9.2015 19:27:3] » Cmd: Carlosxp [0] /get 3
+[27.9.2015 19:27:7] » Cmd: Carlosxp [0] /get 3
+[27.9.2015 19:27:11] » Cmd: Carlosxp [0] /get 3
+[27.9.2015 19:27:13] » Cmd: Carlosxp [0] /get 3
+[27.9.2015 19:27:13] » Cmd: Carlosxp [0] /get 3
+[27.9.2015 19:27:14] » Cmd: Carlosxp [0] /get 3
+[27.9.2015 19:27:14] » Cmd: Carlosxp [0] /get 3
+[27.9.2015 19:27:18] » Cmd: Carlosxp [0] /congelar 3
+[27.9.2015 19:27:20] » Cmd: Carlosxp [0] /get 3
+[27.9.2015 19:27:22] » Cmd: Sr.[F]ran [3] /explotar 0
+[27.9.2015 19:27:22] » Cmd: Sr.[F]ran [3] /explotar 0
+[27.9.2015 19:27:23] » Cmd: Sr.[F]ran [3] /explotar 0
+[27.9.2015 19:27:23] » Cmd: Sr.[F]ran [3] /explotar 0
+[27.9.2015 19:27:27] » Cmd: Carlosxp [0] /descongelar 3
+[27.9.2015 19:27:34] » Cmd: Carlosxp [0] /fakecmd 3 /kill
+[27.9.2015 19:27:34] » Cmd: Sr.[F]ran [3] /kill
+[27.9.2015 19:27:43] » Cmd: Sr.[F]ran [3] /get 0
+[27.9.2015 19:27:58] » Cmd: Sr.[F]ran [3] /god
+[27.9.2015 19:28:14] » Cmd: Sr.[F]ran [3] /lauto
+[27.9.2015 19:28:17] » Cmd: Carlosxp [0] /god
+[27.9.2015 19:28:26] » Cmd: Carlosxp [0] /guardarskin
+[27.9.2015 19:28:29] » Cmd: Carlosxp [0] /guardarskin 299
+[27.9.2015 19:28:32] » Cmd: Carlosxp [0] /usarskin
+[27.9.2015 19:28:41] » Cmd: Carlosxp [0] /lauto
+[27.9.2015 19:28:44] » Cmd: Sr.[F]ran [3] /pm 0 Haré que a Jorge se le saque esa pelotudez de encima. En temas que encaje lo del script
+[27.9.2015 19:28:59] » Cmd: Sr.[F]ran [3] /pm 0 Voy a agradecer a ambos y los voy a comparar que hacen buen trabajo
+[27.9.2015 19:29:7] » Cmd: Carlosxp [0] /mpa 3 Ojo que no parezca que te dije
+[27.9.2015 19:29:9] » Cmd: Carlosxp [0] /mpa 3 .-.
+[27.9.2015 19:29:15] » Cmd: Sr.[F]ran [3] /pm 0 Y que ambos siempre tienen los mismo conocimientos para programar RL
+[27.9.2015 19:29:22] » Cmd: Sr.[F]ran [3] /pm 0 Y que por eso está así de bien
+[27.9.2015 19:29:23] » Cmd: Carlosxp [0] /fakecmd 3 /24rl
+[27.9.2015 19:29:26] » Cmd: Carlosxp [0] /get 3
+[27.9.2015 19:29:39] » Cmd: Sr.[F]ran [3] /grabar24rl
+[27.9.2015 19:29:51] » Cmd: Carlosxp [0] /mpa 3 /grabar kroterevalue
+[27.9.2015 19:29:55] » Cmd: Sr.[F]ran [3] /grabar
+[27.9.2015 19:29:58] » Cmd: Carlosxp [0] /mpa 3 /cortar kroterevalue
+[27.9.2015 19:30:14] » Cmd: Sr.[F]ran [3] /pm 0 :v
+[27.9.2015 19:30:28] » Cmd: Carlosxp [0] /setskin 3 87
+[27.9.2015 19:30:35] » Cmd: Sr.[F]ran [3] /skin
+[27.9.2015 19:31:2] » Cmd: Sr.[F]ran [3] /lauto
+[27.9.2015 19:31:8] » Cmd: Sr.[F]ran [3] /lauto
+[27.9.2015 19:31:11] » Cmd: Carlosxp [0] /lauto
+[27.9.2015 19:31:43] » Cmd: Carlosxp [0] /lauto
+[27.9.2015 19:32:3] » Cmd: Carlosxp [0] /mute 3 Cállate pls
+[27.9.2015 19:32:6] » Cmd: Carlosxp [0] /darlevel 3 9
+[27.9.2015 19:32:7] » Cmd: Carlosxp [0] /mute 3 Cállate pls
+[27.9.2015 19:32:16] » Cmd: Sr.[F]ran [3] /unmute 3
+[27.9.2015 19:32:20] » Cmd: Carlosxp [0] /mute 3 Cállate pls
+[27.9.2015 19:32:22] » Cmd: Carlosxp [0] /darlevel 3 0
+[27.9.2015 19:32:22] » Cmd: Sr.[F]ran [3] /unmute 3
+[27.9.2015 19:32:29] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:32:30] » Cmd: Carlosxp [0] /darlevel 3 0
+[27.9.2015 19:32:30] » Cmd: Sr.[F]ran [3] /unmute 3
+[27.9.2015 19:32:39] » Cmd: Sr.[F]ran [3] /unmute 3
+[27.9.2015 19:32:39] » Cmd: Carlosxp [0] /darlevel 3 0
+[27.9.2015 19:32:43] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:32:43] » Cmd: Carlosxp [0] /darlevel 3 0
+[27.9.2015 19:32:47] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:32:48] » Cmd: Carlosxp [0] /darlevel 3 0
+[27.9.2015 19:32:48] » Cmd: Sr.[F]ran [3] /unmute 3
+[27.9.2015 19:32:53] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:32:54] » Cmd: Carlosxp [0] /darlevel 3 0
+[27.9.2015 19:33:1] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:33:1] » Cmd: Carlosxp [0] /darlevel 3 0
+[27.9.2015 19:33:5] » Cmd: Carlosxp [0] /darlevel 3 10
+[27.9.2015 19:33:6] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:33:7] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:33:7] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:33:7] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:33:7] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:33:8] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:33:8] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:33:8] » Cmd: Sr.[F]ran [3] /darlevel 3 10t
+[27.9.2015 19:33:9] » Cmd: Carlosxp [0] /Byc
+[27.9.2015 19:33:10] » Cmd: Carlosxp [0] /btc
+[27.9.2015 19:33:10] » Cmd: Sr.[F]ran [3] /darlevel 3 10t
+[27.9.2015 19:33:11] » Cmd: Sr.[F]ran [3] /darlevel 3 10t
+[27.9.2015 19:33:12] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:33:19] » Cmd: Sr.[F]ran [3] /unmute 3
+[27.9.2015 19:33:37] » Cmd: Carlosxp [0] /darlevel 0 0
+[27.9.2015 19:33:55] » Cmd: Carlosxp [0] /darlevel 0 0
+[27.9.2015 19:33:57] » Cmd: Carlosxp [0] /darlevel 0 10
+[27.9.2015 19:34:12] » Cmd: Carlosxp [0] /darlevel 0 0
+[27.9.2015 19:34:17] » Cmd: Sr.[F]ran [3] /mute 3 .
+[27.9.2015 19:34:22] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:34:24] » Cmd: Sr.[F]ran [3] /darlevel 3 8
+[27.9.2015 19:34:28] » Cmd: Sr.[F]ran [3] /mute 3 0
+[27.9.2015 19:34:33] » Cmd: Sr.[F]ran [3] /unmute 3
+[27.9.2015 19:34:34] » Cmd: Carlosxp [0] /mpa 3 Cómo abrias las ventanas
+[27.9.2015 19:34:38] » Cmd: Sr.[F]ran [3] /darlevel 3 10
+[27.9.2015 19:34:45] » Cmd: Carlosxp [0] /darlevel
+[27.9.2015 19:34:46] » Cmd: Carlosxp [0] /darlevel
+[27.9.2015 19:34:48] » Cmd: Carlosxp [0] /darlevel 0 10
+[27.9.2015 19:34:58] » Cmd: Sr.[F]ran [3] /pm 0 Eh?
+[27.9.2015 19:35:0] » Cmd: Sr.[F]ran [3] /godcar
+[27.9.2015 19:35:2] » Cmd: Sr.[F]ran [3] /velocidad
+[27.9.2015 19:35:3] » Cmd: Carlosxp [0] /mpa 3 en 24horas rl
+[27.9.2015 19:35:8] » Cmd: Carlosxp [0] /mpa 3 Podías abrir las ventanas.
+[27.9.2015 19:35:9] » Cmd: Carlosxp [0] /mpa 3 Podías abrir las ventanas.
+[27.9.2015 19:35:15] » Cmd: Sr.[F]ran [3] /pm 0 No se abren, la rompés con el arma :v
+[27.9.2015 19:35:32] » Cmd: Carlosxp [0] /infibalas
+[27.9.2015 19:35:38] » Cmd: Carlosxp [0] /mpa 3 cuañ
+[27.9.2015 19:35:51] » Cmd: Sr.[F]ran [3] /pm 0 Con el arma que quieras, es como romper un vídrio
+[27.9.2015 19:35:56] » Cmd: Carlosxp [0] /mpa 3 LOL
+[27.9.2015 19:36:20] » Cmd: Carlosxp [0] /l
+[27.9.2015 19:36:38] » Cmd: Carlosxp [0] /fakedeath
+[27.9.2015 19:36:42] » Cmd: Sr.[F]ran [3] /flip
+[27.9.2015 19:36:42] » Cmd: Carlosxp [0] /goto 3
+[27.9.2015 19:36:44] » Cmd: Carlosxp [0] /goto 3
+[27.9.2015 19:37:45] » Cmd: [Exo_k]_DeadCandy_ [1] /vcar cheetah 0 0
+[27.9.2015 19:37:52] » Cmd: Carlosxp [0] /porno
+[27.9.2015 19:37:58] » Cmd: Carlosxp [0] /get 3
+[27.9.2015 19:38:11] » Cmd: Carlosxp [0] /infibalas
+[27.9.2015 19:38:28] » Cmd: Sr.[F]ran [3] /darcash 3 1000000000
+[27.9.2015 19:39:3] » Cmd: Carlosxp [0] /porno
+[27.9.2015 19:39:35] » Cmd: Carlosxp [0] /admins
+[27.9.2015 19:39:41] » Cmd: Carlosxp [0] /setscore
+[27.9.2015 19:39:43] » Cmd: Carlosxp [0] /setscore 0 150
+[27.9.2015 19:39:44] » Cmd: Sr.[F]ran [3] /goto 0
+[27.9.2015 19:39:47] » Cmd: Carlosxp [0] /admins
+[27.9.2015 19:39:51] » Cmd: Carlosxp [0] /fakecmd
+[27.9.2015 19:39:56] » Cmd: Sr.[F]ran [3] /admins
+[27.9.2015 19:39:56] » Cmd: Carlosxp [0] /fakecmd 3 /kill
+[27.9.2015 19:39:56] » Cmd: Sr.[F]ran [3] /kill
+[27.9.2015 19:40:16] » Cmd: Carlosxp [0] /velocidad
+[27.9.2015 19:41:32] » Cmd: Carlosxp [0] /mpa 1 Ven a mi ID, mira la zona de spawn :'v
+[27.9.2015 19:41:39] » Cmd: [Exo_k]_DeadCandy_ [1] /goto 0
+[27.9.2015 19:42:6] » Cmd: Carlosxp [0] /Get
+[27.9.2015 19:42:8] » Cmd: Carlosxp [0] /Get 1
+[27.9.2015 19:42:13] » Cmd: Carlosxp [0] /mpa 1 Tuve que quitar este mapp
+[27.9.2015 19:42:27] » Cmd: Carlosxp [0] /mpa 1 Ya que no había nada, osea no cargaba
+[27.9.2015 19:42:27] » Cmd: [Exo_k]_DeadCandy_ [1] /mpa 0 cual
+[27.9.2015 19:42:37] » Cmd: Carlosxp [0] /mpa 1 Acá estaba el de logueo
+[27.9.2015 19:42:39] » Cmd: [Exo_k]_DeadCandy_ [1] /mpa 0 a el del parque?
+[27.9.2015 19:42:46] » Cmd: Carlosxp [0] /mpa 1 Si, era hermoso pero no cargaba
+[27.9.2015 19:42:53] » Cmd: Carlosxp [0] /mpa 1 Así que sólo saqué los remove.
+[27.9.2015 19:43:1] » Cmd: [Exo_k]_DeadCandy_ [1] /mpa 0 bueno, no importa
+[27.9.2015 19:43:19] » Cmd: Carlosxp [0] /lauto
+[27.9.2015 19:43:22] » Cmd: Carlosxp [0] /mpa 1 sube
+[27.9.2015 19:43:33] » Cmd: [Exo_k]_DeadCandy_ [1] /mpa 0 usa otro auto, ese me da lag :'v
+[27.9.2015 19:43:41] » Cmd: Sr.[F]ran [3] /flup
+[27.9.2015 19:44:22] » Cmd: Carlosxp [0] /godcar
+[27.9.2015 19:44:24] » Cmd: Carlosxp [0] /godcar
+[27.9.2015 19:44:32] » Cmd: Carlosxp [0] /velocidad
+[27.9.2015 19:44:55] » Cmd: Carlosxp [0] /saktar
+[27.9.2015 19:44:57] » Cmd: Carlosxp [0] /saltarauto
+[27.9.2015 19:44:58] » Cmd: [Exo_k]_DeadCandy_ [1] /mpa 0 espera saco mi BWM :'v
+[27.9.2015 19:45:10] » Cmd: [Exo_k]_DeadCandy_ [1] /mpa 0 BMW* :'v
+[27.9.2015 19:45:10] » Cmd: Carlosxp [0] /flip
+[27.9.2015 19:45:15] » Cmd: Carlosxp [0] /flip
+[27.9.2015 19:45:16] » Cmd: Carlosxp [0] /flip
+[27.9.2015 19:45:25] » Cmd: [Exo_k]_DeadCandy_ [1] /vcar merit 0 0
+[27.9.2015 19:46:14] » Cmd: Carlosxp [0] /goto 1
+[27.9.2015 19:48:37] » Cmd: [Exo_k]_DeadCandy_ [1] /flip
+[27.9.2015 19:48:39] » Cmd: Sr.[F]ran [3] /flip
+[27.9.2015 19:49:17] » Cmd: Carlosxp [0] /god
+[27.9.2015 19:49:20] » Cmd: Carlosxp [0] /adminarea
+[27.9.2015 19:49:35] » Cmd: Carlosxp [0] /disable
+[27.9.2015 19:49:38] » Cmd: Carlosxp [0] /disable readcmds
+[18.10.2015 4:36:20] » Cmd: Carlosxp [0] /apanel

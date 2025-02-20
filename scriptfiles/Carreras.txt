@@ -1,0 +1,95 @@
+// TextDraw developed using Zamaroht's Textdraw Editor 1.0
+
+// On top of script:
+new Text:Textdraw0;
+new Text:Textdraw1;
+new Text:Textdraw2;
+new Text:Textdraw3;
+new Text:Textdraw4;
+new Text:Textdraw5;
+new Text:Textdraw6;
+new Text:Textdraw7;
+
+// In OnGameModeInit prefferably, we procced to create our textdraws:
+Textdraw0 = TextDrawCreate(407.000000, 122.000000, "Record's");
+TextDrawBackgroundColor(Textdraw0, 255);
+TextDrawFont(Textdraw0, 3);
+TextDrawLetterSize(Textdraw0, 0.500000, 1.000000);
+TextDrawColor(Textdraw0, -16776961);
+TextDrawSetOutline(Textdraw0, 1);
+TextDrawSetProportional(Textdraw0, 1);
+TextDrawSetSelectable(Textdraw0, 0);
+
+Textdraw1 = TextDrawCreate(390.000000, 137.000000, "1. [Exo_K][D]ead[P]ool");
+TextDrawBackgroundColor(Textdraw1, 255);
+TextDrawFont(Textdraw1, 3);
+TextDrawLetterSize(Textdraw1, 0.230000, 1.200000);
+TextDrawColor(Textdraw1, -1);
+TextDrawSetOutline(Textdraw1, 0);
+TextDrawSetProportional(Textdraw1, 1);
+TextDrawSetShadow(Textdraw1, 1);
+TextDrawSetSelectable(Textdraw1, 0);
+
+Textdraw2 = TextDrawCreate(390.000000, 122.000000, "_");
+TextDrawBackgroundColor(Textdraw2, 255);
+TextDrawFont(Textdraw2, 1);
+TextDrawLetterSize(Textdraw2, 2.629998, 7.299993);
+TextDrawColor(Textdraw2, -1);
+TextDrawSetOutline(Textdraw2, 0);
+TextDrawSetProportional(Textdraw2, 1);
+TextDrawSetShadow(Textdraw2, 1);
+TextDrawUseBox(Textdraw2, 1);
+TextDrawBoxColor(Textdraw2, 3604535);
+TextDrawTextSize(Textdraw2, 505.000000, 0.000000);
+TextDrawSetSelectable(Textdraw2, 0);
+
+Textdraw3 = TextDrawCreate(390.000000, 149.000000, "2. [Exo_K][D]ead[p]ool");
+TextDrawBackgroundColor(Textdraw3, 255);
+TextDrawFont(Textdraw3, 3);
+TextDrawLetterSize(Textdraw3, 0.230000, 1.200000);
+TextDrawColor(Textdraw3, -1);
+TextDrawSetOutline(Textdraw3, 0);
+TextDrawSetProportional(Textdraw3, 1);
+TextDrawSetShadow(Textdraw3, 1);
+TextDrawSetSelectable(Textdraw3, 0);
+
+Textdraw4 = TextDrawCreate(390.000000, 162.000000, "3. [Exo_K][D]ead[p]ool");
+TextDrawBackgroundColor(Textdraw4, 255);
+TextDrawFont(Textdraw4, 3);
+TextDrawLetterSize(Textdraw4, 0.230000, 1.200000);
+TextDrawColor(Textdraw4, -1);
+TextDrawSetOutline(Textdraw4, 0);
+TextDrawSetProportional(Textdraw4, 1);
+TextDrawSetShadow(Textdraw4, 1);
+TextDrawSetSelectable(Textdraw4, 0);
+
+Textdraw5 = TextDrawCreate(390.000000, 175.000000, "4. [Exo_K][D]ead[p]ool");
+TextDrawBackgroundColor(Textdraw5, 255);
+TextDrawFont(Textdraw5, 3);
+TextDrawLetterSize(Textdraw5, 0.230000, 1.200000);
+TextDrawColor(Textdraw5, -1);
+TextDrawSetOutline(Textdraw5, 0);
+TextDrawSetProportional(Textdraw5, 1);
+TextDrawSetShadow(Textdraw5, 1);
+TextDrawSetSelectable(Textdraw5, 0);
+
+Textdraw6 = TextDrawCreate(171.000000, 352.000000, "Tiempo: 5:59:59");
+TextDrawBackgroundColor(Textdraw6, 255);
+TextDrawFont(Textdraw6, 2);
+TextDrawLetterSize(Textdraw6, 0.300000, 2.000000);
+TextDrawColor(Textdraw6, 16711935);
+TextDrawSetOutline(Textdraw6, 1);
+TextDrawSetProportional(Textdraw6, 1);
+TextDrawSetSelectable(Textdraw6, 0);
+
+Textdraw7 = TextDrawCreate(171.000000, 369.000000, "Posicion: 10");
+TextDrawBackgroundColor(Textdraw7, 255);
+TextDrawFont(Textdraw7, 2);
+TextDrawLetterSize(Textdraw7, 0.300000, 2.000000);
+TextDrawColor(Textdraw7, 16711935);
+TextDrawSetOutline(Textdraw7, 1);
+TextDrawSetProportional(Textdraw7, 1);
+TextDrawSetSelectable(Textdraw7, 0);
+
+// You can now use TextDrawShowForPlayer(-ForAll), TextDrawHideForPlayer(-ForAll) and
+// TextDrawDestroy functions to show, hide, and destroy the textdraw.

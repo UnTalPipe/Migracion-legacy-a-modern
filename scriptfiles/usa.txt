@@ -1,0 +1,35 @@
+// TextDraw developed using Zamaroht's Textdraw Editor 1.0
+
+// On top of script:
+new Text:Textdraw0;
+new Text:Textdraw1;
+
+// In OnGameModeInit prefferably, we procced to create our textdraws:
+Textdraw0 = TextDrawCreate(521.000000, 416.000000, "Use");
+TextDrawBackgroundColor(Textdraw0, 255);
+TextDrawFont(Textdraw0, 1);
+TextDrawLetterSize(Textdraw0, 0.500000, 1.500000);
+TextDrawColor(Textdraw0, 65535);
+TextDrawSetOutline(Textdraw0, 0);
+TextDrawSetProportional(Textdraw0, 1);
+TextDrawSetShadow(Textdraw0, 1);
+TextDrawUseBox(Textdraw0, 1);
+TextDrawBoxColor(Textdraw0, 16847922);
+TextDrawTextSize(Textdraw0, 636.000000, 0.000000);
+TextDrawSetSelectable(Textdraw0, 0);
+
+Textdraw1 = TextDrawCreate(481.000000, 416.000000, "Usa:");
+TextDrawBackgroundColor(Textdraw1, 255);
+TextDrawFont(Textdraw1, 1);
+TextDrawLetterSize(Textdraw1, 0.509999, 1.500000);
+TextDrawColor(Textdraw1, -16776961);
+TextDrawSetOutline(Textdraw1, 0);
+TextDrawSetProportional(Textdraw1, 0);
+TextDrawSetShadow(Textdraw1, 1);
+TextDrawUseBox(Textdraw1, 1);
+TextDrawBoxColor(Textdraw1, 16847922);
+TextDrawTextSize(Textdraw1, 518.000000, 0.000000);
+TextDrawSetSelectable(Textdraw1, 0);
+
+// You can now use TextDrawShowForPlayer(-ForAll), TextDrawHideForPlayer(-ForAll) and
+// TextDrawDestroy functions to show, hide, and destroy the textdraw.

@@ -1,0 +1,240 @@
+// TextDraw developed using Zamaroht's Textdraw Editor 1.0
+
+// On top of script:
+new Text:Textdraw0;
+new Text:Textdraw1;
+new Text:Textdraw2;
+new Text:Textdraw3;
+new Text:Textdraw4;
+new Text:Textdraw5;
+new Text:Textdraw6;
+new Text:Textdraw7;
+new Text:Textdraw8;
+new Text:Textdraw9;
+new Text:Textdraw10;
+new Text:Textdraw11;
+new Text:Textdraw12;
+new Text:Textdraw13;
+new Text:Textdraw14;
+new Text:Textdraw15;
+new Text:Textdraw16;
+new Text:Textdraw17;
+new Text:Textdraw18;
+new Text:Textdraw19;
+new Text:Textdraw20;
+new Text:Textdraw21;
+
+// In OnGameModeInit prefferably, we procced to create our textdraws:
+Textdraw0 = TextDrawCreate(638.000000, 260.000000, "_");
+TextDrawBackgroundColor(Textdraw0, 255);
+TextDrawFont(Textdraw0, 1);
+TextDrawLetterSize(Textdraw0, 0.789999, 4.299993);
+TextDrawColor(Textdraw0, -1);
+TextDrawSetOutline(Textdraw0, 0);
+TextDrawSetProportional(Textdraw0, 1);
+TextDrawSetShadow(Textdraw0, 1);
+TextDrawUseBox(Textdraw0, 1);
+TextDrawBoxColor(Textdraw0, 16962);
+TextDrawTextSize(Textdraw0, 137.000000, -154.000000);
+TextDrawSetSelectable(Textdraw0, 0);
+
+Textdraw1 = TextDrawCreate(447.000000, 237.000000, "_");
+TextDrawBackgroundColor(Textdraw1, 255);
+TextDrawFont(Textdraw1, 1);
+TextDrawLetterSize(Textdraw1, 0.509998, 2.099999);
+TextDrawColor(Textdraw1, -1);
+TextDrawSetOutline(Textdraw1, 0);
+TextDrawSetProportional(Textdraw1, 1);
+TextDrawSetShadow(Textdraw1, 1);
+TextDrawUseBox(Textdraw1, 1);
+TextDrawBoxColor(Textdraw1, 353703317);
+TextDrawTextSize(Textdraw1, 339.000000, -188.000000);
+TextDrawSetSelectable(Textdraw1, 0);
+
+Textdraw2 = TextDrawCreate(358.000000, 235.000000, "Historia");
+TextDrawBackgroundColor(Textdraw2, 387389439);
+TextDrawFont(Textdraw2, 0);
+TextDrawLetterSize(Textdraw2, 0.669999, 2.000000);
+TextDrawColor(Textdraw2, -877514107);
+TextDrawSetOutline(Textdraw2, 1);
+TextDrawSetProportional(Textdraw2, 1);
+TextDrawSetSelectable(Textdraw2, 0);
+
+Textdraw3 = TextDrawCreate(638.000000, 293.000000, "_");
+TextDrawBackgroundColor(Textdraw3, 255);
+TextDrawFont(Textdraw3, 1);
+TextDrawLetterSize(Textdraw3, 0.509998, 1.000000);
+TextDrawColor(Textdraw3, -1);
+TextDrawSetOutline(Textdraw3, 0);
+TextDrawSetProportional(Textdraw3, 1);
+TextDrawSetShadow(Textdraw3, 1);
+TextDrawUseBox(Textdraw3, 1);
+TextDrawBoxColor(Textdraw3, 353703317);
+TextDrawTextSize(Textdraw3, 617.000000, -2.000000);
+TextDrawSetSelectable(Textdraw3, 0);
+
+Textdraw4 = TextDrawCreate(624.000000, 291.000000, "~>~");
+TextDrawBackgroundColor(Textdraw4, 255);
+TextDrawFont(Textdraw4, 1);
+TextDrawLetterSize(Textdraw4, 0.519999, 1.399999);
+TextDrawColor(Textdraw4, -1);
+TextDrawSetOutline(Textdraw4, 0);
+TextDrawSetProportional(Textdraw4, 1);
+TextDrawSetShadow(Textdraw4, 1);
+TextDrawSetSelectable(Textdraw4, 0);
+
+Textdraw5 = TextDrawCreate(144.000000, 259.000000, "El mundo ya no es como se conoce originalmente. Cosas anormales estan pasando en el, las mutaciones son las");
+TextDrawBackgroundColor(Textdraw5, 255);
+TextDrawFont(Textdraw5, 2);
+TextDrawLetterSize(Textdraw5, 0.179998, 1.299999);
+TextDrawColor(Textdraw5, -1);
+TextDrawSetOutline(Textdraw5, 1);
+TextDrawSetProportional(Textdraw5, 1);
+TextDrawSetSelectable(Textdraw5, 0);
+
+Textdraw6 = TextDrawCreate(144.000000, 269.000000, "que hoy estan gobernando nuestro mundo, y solo estamos conociendo su primera etapa porque han de faltar.");
+TextDrawBackgroundColor(Textdraw6, 255);
+TextDrawFont(Textdraw6, 2);
+TextDrawLetterSize(Textdraw6, 0.179997, 1.299998);
+TextDrawColor(Textdraw6, -1);
+TextDrawSetOutline(Textdraw6, 1);
+TextDrawSetProportional(Textdraw6, 1);
+TextDrawSetSelectable(Textdraw6, 0);
+
+Textdraw7 = TextDrawCreate(144.000000, 279.000000, "California, hoy se entera de que todo esto se mantenia en secreto por el gobierno y FBI sin advertir nada.");
+TextDrawBackgroundColor(Textdraw7, 255);
+TextDrawFont(Textdraw7, 2);
+TextDrawLetterSize(Textdraw7, 0.179998, 1.299999);
+TextDrawColor(Textdraw7, -1);
+TextDrawSetOutline(Textdraw7, 1);
+TextDrawSetProportional(Textdraw7, 1);
+TextDrawSetSelectable(Textdraw7, 0);
+
+Textdraw8 = TextDrawCreate(144.000000, 289.000000, "Gracias a esto ahora todo el mundo esta en peligro de ser infectado, tu debes intentar sobrevivir.");
+TextDrawBackgroundColor(Textdraw8, 255);
+TextDrawFont(Textdraw8, 2);
+TextDrawLetterSize(Textdraw8, 0.179998, 1.299999);
+TextDrawColor(Textdraw8, -1);
+TextDrawSetOutline(Textdraw8, 1);
+TextDrawSetProportional(Textdraw8, 1);
+TextDrawSetSelectable(Textdraw8, 0);
+
+Textdraw9 = TextDrawCreate(144.000000, 299.000000, "de seguridad a toda esta historia antes de que pasara lo que es actualmente el mundo. El F.B.I y Gobierno deja-");
+TextDrawBackgroundColor(Textdraw9, 255);
+TextDrawFont(Textdraw9, 2);
+TextDrawLetterSize(Textdraw9, 0.179998, 1.299999);
+TextDrawColor(Textdraw9, -1);
+TextDrawSetOutline(Textdraw9, 1);
+TextDrawSetProportional(Textdraw9, 1);
+TextDrawSetSelectable(Textdraw9, 0);
+
+Textdraw10 = TextDrawCreate(144.000000, 309.000000, "ron que este caso mas haya de que se le salga de las manos, permitieron que sea experimentado con poblacion");
+TextDrawBackgroundColor(Textdraw10, 255);
+TextDrawFont(Textdraw10, 2);
+TextDrawLetterSize(Textdraw10, 0.179998, 1.299999);
+TextDrawColor(Textdraw10, -1);
+TextDrawSetOutline(Textdraw10, 1);
+TextDrawSetProportional(Textdraw10, 1);
+TextDrawSetSelectable(Textdraw10, 0);
+
+Textdraw11 = TextDrawCreate(144.000000, 319.000000, "normal y sin ningun delito cometido.");
+TextDrawBackgroundColor(Textdraw11, 255);
+TextDrawFont(Textdraw11, 2);
+TextDrawLetterSize(Textdraw11, 0.179998, 1.299999);
+TextDrawColor(Textdraw11, -1);
+TextDrawSetOutline(Textdraw11, 1);
+TextDrawSetProportional(Textdraw11, 1);
+TextDrawSetSelectable(Textdraw11, 0);
+
+Textdraw12 = TextDrawCreate(144.000000, 329.000000, "La Agencia de China llamada Ministerio de Seguridad del Estado (MSS) propuso mantener su pais de forma estable");
+TextDrawBackgroundColor(Textdraw12, 255);
+TextDrawFont(Textdraw12, 2);
+TextDrawLetterSize(Textdraw12, 0.179998, 1.299999);
+TextDrawColor(Textdraw12, -1);
+TextDrawSetOutline(Textdraw12, 1);
+TextDrawSetProportional(Textdraw12, 1);
+TextDrawSetSelectable(Textdraw12, 0);
+
+Textdraw13 = TextDrawCreate(144.000000, 339.000000, "pero aun asi es uno de los que fue afectada por el virus que paso por el Oceano Pacifico Norte. Y asi fue como");
+TextDrawBackgroundColor(Textdraw13, 255);
+TextDrawFont(Textdraw13, 2);
+TextDrawLetterSize(Textdraw13, 0.179998, 1.299999);
+TextDrawColor(Textdraw13, -1);
+TextDrawSetOutline(Textdraw13, 1);
+TextDrawSetProportional(Textdraw13, 1);
+TextDrawSetSelectable(Textdraw13, 0);
+
+Textdraw14 = TextDrawCreate(144.000000, 349.000000, "llego lastimosamente a Rusia donde la agencia Servicio Federal de Seguridad (FSB) han propuesto muchas ideas");
+TextDrawBackgroundColor(Textdraw14, 255);
+TextDrawFont(Textdraw14, 2);
+TextDrawLetterSize(Textdraw14, 0.179998, 1.299999);
+TextDrawColor(Textdraw14, -1);
+TextDrawSetOutline(Textdraw14, 1);
+TextDrawSetProportional(Textdraw14, 1);
+TextDrawSetSelectable(Textdraw14, 0);
+
+Textdraw15 = TextDrawCreate(144.000000, 359.000000, "para mantener fuera la infeccion de diferentes ciudades ya que el pais es sumamente extenso y amplio para");
+TextDrawBackgroundColor(Textdraw15, 255);
+TextDrawFont(Textdraw15, 2);
+TextDrawLetterSize(Textdraw15, 0.179998, 1.299999);
+TextDrawColor(Textdraw15, -1);
+TextDrawSetOutline(Textdraw15, 1);
+TextDrawSetProportional(Textdraw15, 1);
+TextDrawSetSelectable(Textdraw15, 0);
+
+Textdraw16 = TextDrawCreate(144.000000, 369.000000, "mandar seguridad por todas sus fronteras ya que seria envano a simple vista ese plan. Aun asi los infectados");
+TextDrawBackgroundColor(Textdraw16, 255);
+TextDrawFont(Textdraw16, 2);
+TextDrawLetterSize(Textdraw16, 0.179998, 1.299999);
+TextDrawColor(Textdraw16, -1);
+TextDrawSetOutline(Textdraw16, 1);
+TextDrawSetProportional(Textdraw16, 1);
+TextDrawSetSelectable(Textdraw16, 0);
+
+Textdraw17 = TextDrawCreate(144.000000, 379.000000, "a ese punto por los sonidos producidos naturalmente y tambien por los granjeros y animales que fueron muer-");
+TextDrawBackgroundColor(Textdraw17, 255);
+TextDrawFont(Textdraw17, 2);
+TextDrawLetterSize(Textdraw17, 0.179998, 1.299999);
+TextDrawColor(Textdraw17, -1);
+TextDrawSetOutline(Textdraw17, 1);
+TextDrawSetProportional(Textdraw17, 1);
+TextDrawSetSelectable(Textdraw17, 0);
+
+Textdraw18 = TextDrawCreate(144.000000, 389.000000, "La infeccion se encuentra mas concentrada en California, el F.B.I esta atento de cada paso, cada plan, cada mi-");
+TextDrawBackgroundColor(Textdraw18, 255);
+TextDrawFont(Textdraw18, 2);
+TextDrawLetterSize(Textdraw18, 0.179998, 1.299999);
+TextDrawColor(Textdraw18, -1);
+TextDrawSetOutline(Textdraw18, 1);
+TextDrawSetProportional(Textdraw18, 1);
+TextDrawSetSelectable(Textdraw18, 0);
+
+Textdraw19 = TextDrawCreate(144.000000, 399.000000, "sion, cada evacuacion para evitar cualquier perdida del equipo o poblacion sobreviviente. Ellos ofreceran los");
+TextDrawBackgroundColor(Textdraw19, 255);
+TextDrawFont(Textdraw19, 2);
+TextDrawLetterSize(Textdraw19, 0.179998, 1.299999);
+TextDrawColor(Textdraw19, -1);
+TextDrawSetOutline(Textdraw19, 1);
+TextDrawSetProportional(Textdraw19, 1);
+TextDrawSetSelectable(Textdraw19, 0);
+
+Textdraw20 = TextDrawCreate(144.000000, 409.000000, "servicios basicos para que todos los sobrevivientes esten refugiados sin problemas y a traves de rejas altas e");
+TextDrawBackgroundColor(Textdraw20, 255);
+TextDrawFont(Textdraw20, 2);
+TextDrawLetterSize(Textdraw20, 0.179998, 1.299999);
+TextDrawColor(Textdraw20, -1);
+TextDrawSetOutline(Textdraw20, 1);
+TextDrawSetProportional(Textdraw20, 1);
+TextDrawSetSelectable(Textdraw20, 0);
+
+Textdraw21 = TextDrawCreate(144.000000, 419.000000, "imposible de tirar ya que estan amuradas con palos de concreto solido.");
+TextDrawBackgroundColor(Textdraw21, 255);
+TextDrawFont(Textdraw21, 2);
+TextDrawLetterSize(Textdraw21, 0.179998, 1.299999);
+TextDrawColor(Textdraw21, -1);
+TextDrawSetOutline(Textdraw21, 1);
+TextDrawSetProportional(Textdraw21, 1);
+TextDrawSetSelectable(Textdraw21, 0);
+
+// You can now use TextDrawShowForPlayer(-ForAll), TextDrawHideForPlayer(-ForAll) and
+// TextDrawDestroy functions to show, hide, and destroy the textdraw.

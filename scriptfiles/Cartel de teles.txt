@@ -1,0 +1,112 @@
+// Textdraw editor traducido por Carlosxp
+
+// Programación:
+new Text:Textdraw0;
+new Text:Textdraw1;
+new Text:Textdraw2;
+new Text:Textdraw3;
+new Text:Textdraw4;
+new Text:Textdraw5;
+new Text:Textdraw6;
+new Text:Textdraw7;
+new Text:Textdraw8;
+
+// En OnGameModeInt podrá crear los textdraws correspondientes:
+Textdraw0 = TextDrawCreate(17.000000, 266.000000, "_");
+TextDrawBackgroundColor(Textdraw0, 255);
+TextDrawFont(Textdraw0, 1);
+TextDrawLetterSize(Textdraw0, 0.429998, 1.999999);
+TextDrawColor(Textdraw0, -1);
+TextDrawSetOutline(Textdraw0, 0);
+TextDrawSetProportional(Textdraw0, 1);
+TextDrawSetShadow(Textdraw0, 1);
+TextDrawUseBox(Textdraw0, 1);
+TextDrawBoxColor(Textdraw0, -582141386);
+TextDrawTextSize(Textdraw0, 171.000000, 0.000000);
+TextDrawSetSelectable(Textdraw0, 0);
+
+Textdraw1 = TextDrawCreate(37.000000, 264.000000, "[Exo_K][D]ead[P]ool");
+TextDrawBackgroundColor(Textdraw1, 255);
+TextDrawFont(Textdraw1, 1);
+TextDrawLetterSize(Textdraw1, 0.259999, 1.200000);
+TextDrawColor(Textdraw1, -425441281);
+TextDrawSetOutline(Textdraw1, 1);
+TextDrawSetProportional(Textdraw1, 1);
+TextDrawSetSelectable(Textdraw1, 0);
+
+Textdraw2 = TextDrawCreate(27.000000, 276.000000, "se encuentra en ~r~/Desmadre");
+TextDrawBackgroundColor(Textdraw2, 255);
+TextDrawFont(Textdraw2, 3);
+TextDrawLetterSize(Textdraw2, 0.289999, 0.899999);
+TextDrawColor(Textdraw2, -1);
+TextDrawSetOutline(Textdraw2, 0);
+TextDrawSetProportional(Textdraw2, 1);
+TextDrawSetShadow(Textdraw2, 1);
+TextDrawSetSelectable(Textdraw2, 0);
+
+Textdraw3 = TextDrawCreate(17.000000, 237.000000, "_");
+TextDrawBackgroundColor(Textdraw3, 255);
+TextDrawFont(Textdraw3, 1);
+TextDrawLetterSize(Textdraw3, 0.429998, 1.999999);
+TextDrawColor(Textdraw3, -1);
+TextDrawSetOutline(Textdraw3, 0);
+TextDrawSetProportional(Textdraw3, 1);
+TextDrawSetShadow(Textdraw3, 1);
+TextDrawUseBox(Textdraw3, 1);
+TextDrawBoxColor(Textdraw3, -582141386);
+TextDrawTextSize(Textdraw3, 171.000000, 0.000000);
+TextDrawSetSelectable(Textdraw3, 0);
+
+Textdraw4 = TextDrawCreate(37.000000, 235.000000, "[Exo_K][D]ead[P]ool");
+TextDrawBackgroundColor(Textdraw4, 255);
+TextDrawFont(Textdraw4, 1);
+TextDrawLetterSize(Textdraw4, 0.259999, 1.200000);
+TextDrawColor(Textdraw4, -425441281);
+TextDrawSetOutline(Textdraw4, 1);
+TextDrawSetProportional(Textdraw4, 1);
+TextDrawSetSelectable(Textdraw4, 0);
+
+Textdraw5 = TextDrawCreate(27.000000, 248.000000, "se encuentra en ~r~/Desmadre");
+TextDrawBackgroundColor(Textdraw5, 255);
+TextDrawFont(Textdraw5, 3);
+TextDrawLetterSize(Textdraw5, 0.289999, 0.899999);
+TextDrawColor(Textdraw5, -1);
+TextDrawSetOutline(Textdraw5, 0);
+TextDrawSetProportional(Textdraw5, 1);
+TextDrawSetShadow(Textdraw5, 1);
+TextDrawSetSelectable(Textdraw5, 0);
+
+Textdraw6 = TextDrawCreate(17.000000, 207.000000, "_");
+TextDrawBackgroundColor(Textdraw6, 255);
+TextDrawFont(Textdraw6, 1);
+TextDrawLetterSize(Textdraw6, 0.429998, 1.999999);
+TextDrawColor(Textdraw6, -1);
+TextDrawSetOutline(Textdraw6, 0);
+TextDrawSetProportional(Textdraw6, 1);
+TextDrawSetShadow(Textdraw6, 1);
+TextDrawUseBox(Textdraw6, 1);
+TextDrawBoxColor(Textdraw6, -582141386);
+TextDrawTextSize(Textdraw6, 171.000000, 0.000000);
+TextDrawSetSelectable(Textdraw6, 0);
+
+Textdraw7 = TextDrawCreate(37.000000, 204.000000, "[Exo_K][D]ead[P]ool");
+TextDrawBackgroundColor(Textdraw7, 255);
+TextDrawFont(Textdraw7, 1);
+TextDrawLetterSize(Textdraw7, 0.259999, 1.200000);
+TextDrawColor(Textdraw7, -425441281);
+TextDrawSetOutline(Textdraw7, 1);
+TextDrawSetProportional(Textdraw7, 1);
+TextDrawSetSelectable(Textdraw7, 0);
+
+Textdraw8 = TextDrawCreate(27.000000, 217.000000, "se encuentra en ~r~/Desmadre");
+TextDrawBackgroundColor(Textdraw8, 255);
+TextDrawFont(Textdraw8, 3);
+TextDrawLetterSize(Textdraw8, 0.289999, 0.899999);
+TextDrawColor(Textdraw8, -1);
+TextDrawSetOutline(Textdraw8, 0);
+TextDrawSetProportional(Textdraw8, 1);
+TextDrawSetShadow(Textdraw8, 1);
+TextDrawSetSelectable(Textdraw8, 0);
+
+// Ahora puede utilizar TextDrawShowForPlayer(-ForAll), TextDrawHideForPlayer(-ForAll) y
+// TextDrawDestroy para ocultar los textdraws.

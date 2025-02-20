@@ -1,0 +1,472 @@
+[6.6.2015 1:22:49] {0000FF}[INFO]: {AFAFAF}El VIP Dios [HzK]Nahuel[L] [0] ha usado el comando {00FF00}FIX
+[6.6.2015 16:31:7] {0000FF}[INFO]: {AFAFAF}El VIP Dios [HzK]Nahuel[L] [0] ha usado el comando {00FF00}VELOCIDAD
+[6.6.2015 16:31:26] {0000FF}[INFO]: {AFAFAF}El VIP Dios [HzK]Nahuel[L] [0] ha usado el comando {00FF00}VELOCIDAD OFF
+[6.6.2015 16:31:32] {0000FF}[INFO]: {AFAFAF}El VIP Dios [HzK]Nahuel[L] [0] ha usado el comando {00FF00}VELOCIDAD
+[6.6.2015 16:35:34] {0000FF}[INFO]: {AFAFAF}El VIP Dios [HzK]Nahuel[L] [0] ha usado el comando {00FF00}SALTARAUTO
+[6.6.2015 16:38:20] {0000FF}[INFO]: {AFAFAF}El VIP Dios [HzK]Nahuel[L] [0] ha usado el comando {00FF00}VELOCIDAD
+[6.6.2015 16:44:46] {0000FF}[INFO]: {AFAFAF}El VIP Dios [HzK]Nahuel[L] [0] ha usado el comando {00FF00}VELOCIDAD
+[6.6.2015 16:47:48] {0000FF}[INFO]: {AFAFAF}El VIP Dios [HzK]Nahuel[L] [0] ha usado el comando {00FF00}VELOCIDAD
+[14.6.2015 15:43:33] {0000FF}[INFO]: {AFAFAF}El VIP Diamond [HzK]Nahuel[L] [0] ha usado el comando {00FF00}SALTARAUTO
+[26.6.2015 13:43:9] {0000FF}[INFO]: {AFAFAF}El VIP Legendario [HzK]Nahuel[L] [0] ha usado el comando {00FF00}VELOCIDAD
+[26.6.2015 18:51:20] {0000FF}[INFO]: {AFAFAF}El VIP Legendario [HzK]Nahuel[L] [0] ha usado el comando {00FF00}SALTARAUTO
+[26.6.2015 18:51:22] {0000FF}[INFO]: {AFAFAF}El VIP Legendario [HzK]Nahuel[L] [0] ha usado el comando {00FF00}VELOCIDAD
+[26.6.2015 18:57:53] {0000FF}[INFO]: {AFAFAF}El VIP Legendario [HzK]Nahuel[L] [0] ha usado el comando {00FF00}VIDA
+[18.9.2015 16:6:29] {0000FF}[INFO]: {AFAFAF}El VIP Dios Carlosxp [0] ha usado el comando {00FF00}CAMARILLO
+[18.9.2015 16:6:44] {0000FF}[INFO]: {AFAFAF}El VIP Dios Carlosxp [0] ha usado el comando {00FF00}CAMARILLO OFF
+[18.9.2015 16:6:55] {0000FF}[INFO]: {AFAFAF}El VIP Dios Carlosxp [0] ha usado el comando {00FF00}CAZUL
+[18.9.2015 16:7:10] {0000FF}[INFO]: {AFAFAF}El VIP Dios Carlosxp [0] ha usado el comando {00FF00}CAZUL OFF
+[18.9.2015 16:7:12] {0000FF}[INFO]: {AFAFAF}El VIP Dios Carlosxp [0] ha usado el comando {00FF00}CROJO
+[18.9.2015 21:12:15] {FF33CC}[INFO]: El VIP Dios Carlosxp [0] ha usado el comando {FFFFFF}CAZUL
+[19.9.2015 0:26:42] {FF33CC}[INFO]: El VIP Dios Carlosxp [0] ha usado el comando {FFFFFF}VTRANSF
+[19.9.2015 21:58:55] {FF33CC}[INFO]: El VIP Dios Carlosxp [0] ha usado el comando {FFFFFF}SALTARAUTO (ON)
+[19.9.2015 21:59:23] {FF33CC}[INFO]: El VIP Dios Carlosxp [0] ha usado el comando {FFFFFF}FIX
+[20.9.2015 0:1:45] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}VELOCIDAD
+[20.9.2015 0:4:1] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}CROJO
+[20.9.2015 0:4:59] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}VELOCIDAD OFF
+[20.9.2015 0:5:18] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}CROJO OFF
+[20.9.2015 0:5:21] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}CAMARILLO
+[20.9.2015 0:7:4] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}GUARDARSKIN
+[20.9.2015 0:7:7] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}USARSKIN
+[20.9.2015 0:44:4] {FF33CC}[INFO]: El VIP Dios Carlosxp [0] ha usado el comando {FFFFFF}VKNOCKOUT (ON)
+[20.9.2015 0:48:30] {FF33CC}[INFO]: El VIP  [Exo_k]xXHolandaXx [1] ha usado el comando {FFFFFF}GUARDARSKIN
+[20.9.2015 0:48:34] {FF33CC}[INFO]: El VIP  [Exo_k]xXHolandaXx [1] ha usado el comando {FFFFFF}USARSKIN
+[20.9.2015 0:50:28] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}REGENERAR
+[20.9.2015 0:50:29] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}S (Guardar Posición)
+[20.9.2015 0:55:2] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}G (Ir a mi posición)
+[20.9.2015 0:58:12] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}REGENERAR
+[20.9.2015 0:58:37] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}VKNOCKOUT (ON)
+[20.9.2015 0:59:15] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}VKNOCKOUT (OFF)
+[20.9.2015 0:59:17] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}VKNOCKOUT (ON)
+[20.9.2015 0:59:25] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}VKNOCKOUT (ON)
+[20.9.2015 0:59:30] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}G (Ir a mi posición)
+[20.9.2015 0:59:41] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}VKNOCKOUT (OFF)
+[20.9.2015 0:59:41] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}VKNOCKOUT (ON)
+[20.9.2015 1:0:6] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}G (Ir a mi posición)
+[20.9.2015 1:2:11] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:2:19] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:2:27] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:2:32] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:2:46] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:2:50] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:2:52] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:3:2] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:3:3] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:3:15] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:3:17] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:3:23] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:3:27] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:3:28] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:3:35] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:3:42] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:3:42] {FF33CC}[INFO]: El VIP Dios [StaffRL]Renato._ [0] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:4:0] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:4:10] {FF33CC}[INFO]: El VIP Dios [GAY][StaffRL]Renato._ [0] ha usado el comando {FFFFFF}USARSKIN
+[20.9.2015 1:4:17] {FF33CC}[INFO]: El VIP Dios [GAY][Exo_k]xXHolandaXx [1] ha usado el comando {FFFFFF}USARSKIN
+[20.9.2015 1:4:22] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:4:25] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:4:46] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:5:1] {FF33CC}[INFO]: El VIP Dios [GAY][StaffRL]Renato._ [0] ha usado el comando {FFFFFF}USARSKIN
+[20.9.2015 1:5:11] {FF33CC}[INFO]: El VIP Dios [GAY][StaffRL]Renato._ [0] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:6:34] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:6:48] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDA
+[20.9.2015 1:7:7] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:7:20] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:7:26] {FF33CC}[INFO]: El VIP Dios Carlosxp [2] ha usado el comando {FFFFFF}LOQUENDO
+[20.9.2015 1:8:31] {FF33CC}[INFO]: El VIP Dios [Exo_k]xXHolandaXx [0] ha usado el comando {FFFFFF}GUARDARSKIN
+[20.9.2015 1:8:34] {FF33CC}[INFO]: El VIP Dios [Exo_k]xXHolandaXx [0] ha usado el comando {FFFFFF}USARSKIN
+[20.9.2015 1:9:7] {FF33CC}[INFO]: El VIP Dios Carlosxp [1] ha usado el comando {FFFFFF}BAUTO
+[20.9.2015 1:35:59] {FF33CC}[INFO]: El VIP Dios Carlosxp [1] ha usado el comando {FFFFFF}VGOD (Off)
+[20.9.2015 1:36:1] {FF33CC}[INFO]: El VIP Dios Carlosxp [1] ha usado el comando {FFFFFF}VGOD
+[20.9.2015 2:5:47] {FF33CC}[INFO]: El VIP Dios [Exo_k]xXHolandaXx [0] ha usado el comando {FFFFFF}TIENDA
+[20.9.2015 2:5:48] {FF33CC}[INFO]: El VIP Dios Carlosxp [1] ha usado el comando {FFFFFF}VELOCIDAD
+[20.9.2015 2:5:51] {FF33CC}[INFO]: El VIP Dios Carlosxp [1] ha usado el comando {FFFFFF}SALTARAUTO (ON)
+[20.9.2015 2:6:2] {FF33CC}[INFO]: El VIP Dios Carlosxp [1] ha usado el comando {FFFFFF}INVISIBLE
+[20.9.2015 2:6:44] {FF33CC}[INFO]: El VIP Dios Carlosxp [1] ha usado el comando {FFFFFF}VISIBLE
+[20.9.2015 2:23:59] {FF33CC}[INFO]: El VIP Dios Carlosxp [1] ha usado el comando {FFFFFF}INVISIBLE
+[20.9.2015 2:37:8] {FF33CC}[INFO]: El VIP Dios Carlosxp [1] ha usado el comando {FFFFFF}COMPRARC4
+[20.9.2015 2:37:10] {FF33CC}[INFO]: El VIP Dios Carlosxp [1] ha usado el comando {FFFFFF}PONERC4
+[20.9.2015 2:41:38] {FF33CC}[INFO]: El VIP Dios Carlosxp [1] ha usado el comando {FFFFFF}VTRANSF
+[21.9.2015 12:5:21] {FF33CC}[INFO]: El VIP Dios Carlosxp [0] ha usado el comando {FFFFFF}VELOCIDAD
+[23.9.2015 15:34:47] {0000FF}[INFO]: {FF80C0}El USER VIP Legendario Carlosxp [0] Ha Usado El Comando {99FF00}S (Guardar Posición)
+[23.9.2015 15:50:34] {0000FF}[INFO]: {FF80C0}El USER VIP Legendario Carlosxp [0] Ha Usado El Comando {99FF00}S (Guardar Posición)
+[23.9.2015 15:50:37] {0000FF}[INFO]: {FF80C0}El USER VIP Legendario Carlosxp [0] Ha Usado El Comando {99FF00}G (Ir a mi posición)
+[23.9.2015 15:58:47] {0000FF}[INFO]: {FF80C0}El USER VIP Legendario Carlosxp [0] Ha Usado El Comando {99FF00}S (Guardar Posición)
+[23.9.2015 16:0:44] {0000FF}[INFO]: {FF80C0}El USER VIP Legendario Carlosxp [0] Ha Usado El Comando {99FF00}S (Guardar Posición)
+[24.9.2015 22:59:54] {0000FF}[INFO]: {FF80C0}El USER VIP Esmeralda Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[24.9.2015 23:0:19] {0000FF}[INFO]: {FF80C0}El USER VIP Esmeralda Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (OFF)
+[24.9.2015 23:0:25] {0000FF}[INFO]: {FF80C0}El USER VIP Esmeralda Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[24.9.2015 23:0:28] {0000FF}[INFO]: {FF80C0}El USER VIP Esmeralda Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (OFF)
+[24.9.2015 23:15:44] {0000FF}[INFO]: {FF80C0}El USER VIP Esmeralda Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (OFF)
+[24.9.2015 23:15:49] {0000FF}[INFO]: {FF80C0}El USER VIP Esmeralda Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[24.9.2015 23:22:23] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[24.9.2015 23:22:41] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (OFF)
+[24.9.2015 23:25:22] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}S (Guardar Posición)
+[24.9.2015 23:25:28] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}G (Ir a mi posición)
+[24.9.2015 23:25:32] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (ON)
+[24.9.2015 23:25:54] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (OFF)
+[24.9.2015 23:25:55] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}S (Guardar Posición)
+[24.9.2015 23:27:25] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (ON)
+[24.9.2015 23:27:42] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (OFF)
+[24.9.2015 23:35:25] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}S (Guardar Posición)
+[24.9.2015 23:35:30] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}G (Ir a mi posición)
+[24.9.2015 23:35:31] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (ON)
+[24.9.2015 23:36:11] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (OFF)
+[24.9.2015 23:36:36] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (ON)
+[24.9.2015 23:37:1] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (OFF)
+[24.9.2015 23:37:12] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (ON)
+[24.9.2015 23:37:15] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (OFF)
+[24.9.2015 23:37:26] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (ON)
+[24.9.2015 23:37:27] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (OFF)
+[24.9.2015 23:37:27] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (ON)
+[24.9.2015 23:37:32] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (OFF)
+[24.9.2015 23:45:49] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (ON)
+[24.9.2015 23:46:0] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (OFF)
+[25.9.2015 0:46:10] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[25.9.2015 0:47:28] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (OFF)
+[25.9.2015 0:47:33] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[25.9.2015 0:48:49] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (OFF)
+[25.9.2015 0:48:52] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[25.9.2015 0:50:46] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[25.9.2015 0:54:55] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[25.9.2015 2:5:13] {0000FF}[INFO]: {FF80C0}El USER VIP Diamond Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[25.9.2015 2:44:25] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[25.9.2015 14:47:26] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[25.9.2015 14:47:41] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (OFF)
+[25.9.2015 14:58:20] {0000FF}[INFO]: {FF80C0}El USER VIP Diamond Carlosxp [0] Ha Usado El Comando {99FF00}FLY (ON)
+[25.9.2015 14:58:41] {0000FF}[INFO]: {FF80C0}El USER VIP Diamond Carlosxp [0] Ha Usado El Comando {99FF00}FLY (OFF)
+[25.9.2015 15:7:16] {0000FF}[INFO]: {FF80C0}El USER VIP Diamond Carlosxp [0] Ha Usado El Comando {99FF00}G (Ir a mi posición)
+[25.9.2015 15:12:0] {0000FF}[INFO]: {FF80C0}El USER VIP Diamond Carlosxp [0] Ha Usado El Comando {99FF00}FLY (ON)
+[25.9.2015 16:23:32] {0000FF}[INFO]: {FF80C0}El USER VIP Diamond Carlosxp [0] Ha Usado El Comando {99FF00}S (Guardar Posición)
+[25.9.2015 16:33:24] {0000FF}[INFO]: {FF80C0}El USER VIP Extremo Carlosxp [0] Ha Usado El Comando {99FF00}S (Guardar Posición)
+[25.9.2015 16:33:51] {0000FF}[INFO]: {FF80C0}El USER VIP Extremo Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[26.9.2015 0:37:47] {0000FF}[INFO]: {FF80C0}El USER VIP Legendario Sr.[F]ran [1] Ha Usado El Comando {99FF00}VELOCIDAD
+[26.9.2015 18:53:15] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (ON)
+[26.9.2015 18:54:29] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (OFF)
+[27.9.2015 3:4:16] {0000FF}[INFO]: {FF80C0}El USER VIP Legendario Sr.[F]ran [1] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 3:15:20] {0000FF}[INFO]: {FF80C0}El USER VIP Legendario Sr.[F]ran [0] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 3:17:55] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FLY (ON)
+[27.9.2015 3:19:1] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FLY (OFF)
+[27.9.2015 3:19:18] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FLY (ON)
+[27.9.2015 3:19:57] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FLY (OFF)
+[27.9.2015 3:21:11] {0000FF}[INFO]: {FF80C0}El USER VIP Legendario Sr.[F]ran [0] Ha Usado El Comando {99FF00}VELOCIDAD OFF
+[27.9.2015 3:21:26] {0000FF}[INFO]: {FF80C0}El USER VIP Legendario Sr.[F]ran [0] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 3:49:11] {0000FF}[INFO]: {FF80C0}El USER VIP Dios puta [0] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 3:49:22] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Sr.[F]ran [0] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 4:6:10] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Sr.[F]ran [0] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 4:10:15] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 4:11:26] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FIX
+[27.9.2015 4:16:22] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}VFLIP
+[27.9.2015 4:16:24] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}VFLIP
+[27.9.2015 14:4:42] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}BALASE (ON)
+[27.9.2015 17:42:51] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 17:42:55] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FIX
+[27.9.2015 19:2:49] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 19:3:49] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Sr.[F]ran [2] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 19:4:14] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Sr.[F]ran [2] Ha Usado El Comando {99FF00}VELOCIDAD OFF
+[27.9.2015 19:4:15] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Sr.[F]ran [2] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 19:4:18] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Sr.[F]ran [2] Ha Usado El Comando {99FF00}VELOCIDAD OFF
+[27.9.2015 19:4:26] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Sr.[F]ran [2] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 19:4:27] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Sr.[F]ran [2] Ha Usado El Comando {99FF00}VELOCIDAD OFF
+[27.9.2015 19:4:34] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Sr.[F]ran [2] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 19:12:8] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 19:13:8] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}SALTARAUTO (ON)
+[27.9.2015 19:13:35] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}CAMARILLO
+[27.9.2015 19:22:17] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (ON)
+[27.9.2015 19:22:26] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}FLY (OFF)
+[27.9.2015 19:23:4] {0000FF}[INFO]: {FF80C0}El USER VIP Dios [Exo_k]_DeadCandy_ [1] Ha Usado El Comando {99FF00}USARSKIN
+[27.9.2015 19:24:28] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}CAMARILLO OFF
+[27.9.2015 19:24:34] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}USARSKIN
+[27.9.2015 19:28:33] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}USARSKIN
+[27.9.2015 19:35:2] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Sr.[F]ran [3] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 19:35:32] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}INFIBALAS
+[27.9.2015 19:37:45] {0000FF}[INFO]: {FF80C0}El USER VIP Dios [Exo_k]_DeadCandy_ [1] Ha Usado El Comando {99FF00}VCAR
+[27.9.2015 19:37:52] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}PORNO
+[27.9.2015 19:38:32] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Sr.[F]ran [3] Ha Usado El Comando {99FF00}PONERC4
+[27.9.2015 19:38:35] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Sr.[F]ran [3] Ha Usado El Comando {99FF00}DETONAR
+[27.9.2015 19:39:3] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}PORNO
+[27.9.2015 19:39:7] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}PONERC4
+[27.9.2015 19:39:9] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}TERRORISTA
+[27.9.2015 19:40:16] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}VELOCIDAD OFF
+[27.9.2015 19:44:32] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}VELOCIDAD
+[27.9.2015 19:44:57] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}SALTARAUTO (OFF)
+[27.9.2015 19:45:25] {0000FF}[INFO]: {FF80C0}El USER VIP Dios [Exo_k]_DeadCandy_ [1] Ha Usado El Comando {99FF00}VCAR
+[28.9.2015 17:35:13] {0000FF}[INFO]: {FF80C0}El USER VIP Silver Carlosxp [0] Ha Usado El Comando {99FF00}IP
+[28.9.2015 17:41:7] {0000FF}[INFO]: {FF80C0}El USER VIP Silver Carlosxp [0] Ha Usado El Comando {99FF00}IP
+[30.9.2015 14:39:44] {0000FF}[INFO]: {FF80C0}El USER VIP Silver Carlosxp [0] Ha Usado El Comando {99FF00}IP
+[16.10.2015 19:34:11] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FLY (ON)
+[16.10.2015 19:34:23] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FLY (OFF)
+[16.10.2015 19:35:31] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}REGENERAR
+[16.10.2015 19:51:58] {0000FF}[INFO]: {FF80C0}El USER VIP Silver Carlosxp [1] Ha Usado El Comando {99FF00}S (Guardar Posición)
+[16.10.2015 19:52:1] {0000FF}[INFO]: {FF80C0}El USER VIP Silver Carlosxp [1] Ha Usado El Comando {99FF00}G (Ir a mi posición)
+[16.10.2015 19:56:16] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FLY (ON)
+[16.10.2015 19:56:19] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FLY (OFF)
+[16.10.2015 19:56:19] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FLY (ON)
+[16.10.2015 19:56:41] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FLY (OFF)
+[16.10.2015 20:1:17] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FLY (ON)
+[16.10.2015 20:1:50] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [1] Ha Usado El Comando {99FF00}FLY (OFF)
+[17.10.2015 15:46:35] {0000FF}[INFO]: {FF80C0}El USER VIP Dios Carlosxp [0] Ha Usado El Comando {99FF00}LTUNE
+[17.10.2015 18:20:0] {0000FF}[INFO]: {FF80C0}El USER VIP Silver Sr.[F]ran [1] Ha Usado El Comando {99FF00}FIX
+[18.10.2015 4:58:48] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CHALECO
+[18.10.2015 14:3:32] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}S (Guardar Posición)
+[18.10.2015 16:27:7] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}INFIBALAS
+[18.10.2015 17:26:42] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}INFIBALAS
+[18.10.2015 17:27:7] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}ARMASPESADA [Minigun]
+[18.10.2015 17:27:24] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}TIENDA
+[19.10.2015 14:33:33] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}S (Guardar Posición)
+[19.10.2015 14:33:58] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}G (Ir a mi posición)
+[19.10.2015 14:34:1] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[19.10.2015 14:38:0] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[19.10.2015 15:7:44] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}SALTARAUTO (ON)
+[19.10.2015 15:8:18] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VELOCIDAD (ON)
+[23.10.2015 16:46:26] {0000FF}[INFO]: {FF80C0}El usuario VIP Silver Carlosxp [0] usó el comando {99FF00}G (Ir a mi posición)
+[23.10.2015 16:47:12] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}INFIBALAS
+[23.10.2015 16:47:23] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}TIENDA
+[23.10.2015 17:58:55] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[23.10.2015 17:58:58] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[23.10.2015 17:58:59] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[23.10.2015 23:57:43] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[23.10.2015 23:58:48] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[23.10.2015 23:58:50] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[23.10.2015 23:58:51] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[23.10.2015 23:58:53] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[23.10.2015 23:58:56] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[23.10.2015 23:59:11] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[23.10.2015 23:59:28] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}REGENERAR
+[23.10.2015 23:59:37] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[24.10.2015 0:0:13] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[24.10.2015 0:0:29] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[24.10.2015 0:0:51] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[24.10.2015 0:1:42] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[24.10.2015 0:6:49] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[24.10.2015 0:8:51] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[24.10.2015 0:9:30] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}SALTARAUTO (ON)
+[24.10.2015 20:47:6] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VKNOCKOUT (ON)
+[26.10.2015 18:25:31] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VELOCIDAD (ON)
+[28.10.2015 14:4:19] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}REGENERAR
+[28.10.2015 15:17:42] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[28.10.2015 15:18:7] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[28.10.2015 15:18:14] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}S (Guardar Posición)
+[28.10.2015 15:18:28] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}G (Ir a mi posición)
+[28.10.2015 15:18:37] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}S (Guardar Posición)
+[28.10.2015 15:33:57] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VELOCIDAD (ON)
+[28.10.2015 15:34:16] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CROJO (ON)
+[28.10.2015 16:0:53] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}S (Guardar Posición)
+[29.10.2015 22:7:2] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}INFIBALAS
+[30.10.2015 0:32:45] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}ARMASPESADA [Minigun]
+[30.10.2015 0:34:13] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[30.10.2015 0:34:15] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[30.10.2015 1:58:22] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}ANUNCIOVIP
+[30.10.2015 2:3:44] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}ANUNCIOVIP
+[30.10.2015 2:17:43] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}ANUNCIOVIP
+[30.10.2015 14:31:35] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}PORNO
+[30.10.2015 14:33:48] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}PORNO
+[30.10.2015 14:33:55] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}PORNO
+[30.10.2015 14:34:5] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}PORNO
+[30.10.2015 14:35:8] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[30.10.2015 14:36:25] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[30.10.2015 14:36:28] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}PORNO
+[3.11.2015 11:19:21] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[3.11.2015 11:19:30] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[3.11.2015 11:20:10] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[3.11.2015 11:33:46] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}GUARDARSKIN
+[3.11.2015 11:33:48] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}USARSKIN
+[3.11.2015 16:52:38] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[3.11.2015 16:52:47] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[3.11.2015 20:40:28] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[3.11.2015 21:8:5] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (OFF)
+[3.11.2015 21:8:9] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (ON)
+[3.11.2015 21:8:13] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (OFF)
+[3.11.2015 21:8:46] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (ON)
+[3.11.2015 21:8:52] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (OFF)
+[3.11.2015 21:10:21] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (ON)
+[3.11.2015 21:10:25] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (OFF)
+[3.11.2015 21:10:27] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (ON)
+[4.11.2015 19:40:49] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[4.11.2015 19:40:57] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[4.11.2015 19:41:6] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[4.11.2015 19:53:50] {0000FF}[INFO]: {FF80C0}El usuario VIP Silver Sr.[F]ran [0] usó el comando {99FF00}USARSKIN
+[4.11.2015 19:53:56] {0000FF}[INFO]: {FF80C0}El usuario VIP Silver Sr.[F]ran [0] usó el comando {99FF00}GUARDARSKIN
+[4.11.2015 19:54:22] {0000FF}[INFO]: {FF80C0}El usuario VIP Silver Sr.[F]ran [0] usó el comando {99FF00}USARSKIN
+[4.11.2015 19:55:6] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Sr.[F]ran [0] usó el comando {99FF00}BALASE (ON)
+[4.11.2015 20:8:51] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [1] usó el comando {99FF00}ARMASPESADA [Minigun]
+[4.11.2015 20:26:52] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [1] usó el comando {99FF00}FIX
+[4.11.2015 23:54:55] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios [Exo_k]_DeadCandy_ [1] usó el comando {99FF00}GUARDARSKIN
+[4.11.2015 23:54:58] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios [Exo_k]_DeadCandy_ [1] usó el comando {99FF00}USARSKIN
+[5.11.2015 0:3:15] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios [Exo_k]_DeadCandy_ [1] usó el comando {99FF00}BALASE (ON)
+[5.11.2015 0:30:15] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[5.11.2015 0:30:18] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[5.11.2015 0:39:40] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios [Exo_k]_DeadCandy_ [1] usó el comando {99FF00}BAUTO
+[5.11.2015 2:30:43] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}VELOCIDAD (ON)
+[5.11.2015 2:30:51] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}SALTARAUTO (ON)
+[5.11.2015 2:30:58] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FIX
+[6.11.2015 16:56:57] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}ARMASPESADA [Minigun]
+[7.11.2015 14:29:55] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CROJO (ON)
+[7.11.2015 14:30:31] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CROJO (ON)
+[7.11.2015 14:30:45] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CROJO (OFF)
+[7.11.2015 14:31:1] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CROJO (ON)
+[7.11.2015 14:31:5] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CROJO (OFF)
+[7.11.2015 14:31:9] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CAMARILLO (ON)
+[7.11.2015 14:31:24] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CAMARILLO (OFF)
+[7.11.2015 14:31:26] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CAZUL (ON)
+[7.11.2015 14:31:52] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CAZUL (OFF)
+[7.11.2015 14:32:7] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CROJO (ON)
+[7.11.2015 14:32:14] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CROJO (OFF)
+[7.11.2015 14:32:15] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CAZUL (ON)
+[7.11.2015 14:32:19] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CAZUL (OFF)
+[7.11.2015 14:32:22] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CAMARILLO (ON)
+[7.11.2015 14:32:25] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}CAMARILLO (OFF)
+[7.11.2015 21:39:42] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[7.11.2015 21:39:45] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[7.11.2015 22:17:12] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[7.11.2015 22:25:3] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VIDA
+[7.11.2015 22:33:56] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (ON)
+[7.11.2015 22:34:23] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (ON)
+[7.11.2015 22:34:27] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (OFF)
+[7.11.2015 22:34:30] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (ON)
+[7.11.2015 22:34:37] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BALASE (OFF)
+[7.11.2015 23:19:41] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}PONERC4
+[7.11.2015 23:19:44] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}DETONAR
+[7.11.2015 23:42:41] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[7.11.2015 23:43:11] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 0:5:15] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 0:5:28] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 0:28:59] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 0:29:1] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 13:29:6] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}GUARDARSKIN
+[8.11.2015 13:29:8] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}USARSKIN
+[8.11.2015 13:30:29] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}BAUTO
+[8.11.2015 16:44:2] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 16:44:7] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 16:44:23] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 16:44:57] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 16:47:20] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 16:47:41] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 16:50:40] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 16:51:9] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 16:52:44] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 16:52:48] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 16:53:3] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 16:53:4] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}S (Guardar Posición)
+[8.11.2015 16:53:6] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}G (Ir a mi posición)
+[8.11.2015 16:53:13] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[8.11.2015 16:54:59] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 16:56:3] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}G (Ir a mi posición)
+[8.11.2015 16:56:4] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 17:0:46] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}G (Ir a mi posición)
+[8.11.2015 17:0:49] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}G (Ir a mi posición)
+[8.11.2015 17:0:53] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:1:5] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 17:1:13] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[8.11.2015 17:25:39] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VELOCIDAD (ON)
+[8.11.2015 17:49:6] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:49:16] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:49:26] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:49:30] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:49:57] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:51:1] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:52:19] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:53:47] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 17:53:48] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:54:6] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 17:54:7] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:54:14] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 17:54:29] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:54:36] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 17:55:16] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:55:48] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[8.11.2015 17:55:49] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}S (Guardar Posición)
+[8.11.2015 17:56:5] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}G (Ir a mi posición)
+[8.11.2015 17:56:24] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}S (Guardar Posición)
+[8.11.2015 17:56:40] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[8.11.2015 17:57:29] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[9.11.2015 15:58:44] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[9.11.2015 15:58:51] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[9.11.2015 16:25:52] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[9.11.2015 16:27:2] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[9.11.2015 16:34:27] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[9.11.2015 16:34:44] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VELOCIDAD (ON)
+[14.11.2015 18:2:12] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[14.11.2015 18:2:25] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[14.11.2015 18:12:15] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[14.11.2015 18:13:2] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[14.11.2015 18:13:6] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}REGENERAR
+[14.11.2015 18:13:12] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}S (Guardar Posición)
+[14.11.2015 18:13:15] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}G (Ir a mi posición)
+[14.11.2015 18:13:16] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[14.11.2015 18:15:53] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[14.11.2015 18:16:11] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}S (Guardar Posición)
+[14.11.2015 18:16:15] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}G (Ir a mi posición)
+[14.11.2015 18:16:16] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[14.11.2015 18:16:43] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[14.11.2015 18:16:45] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}S (Guardar Posición)
+[14.11.2015 18:16:54] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}G (Ir a mi posición)
+[14.11.2015 18:17:34] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[14.11.2015 18:17:38] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[15.11.2015 0:3:18] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[15.11.2015 1:9:54] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[15.11.2015 1:16:59] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VELOCIDAD (ON)
+[15.11.2015 1:51:15] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[15.11.2015 1:54:28] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[15.11.2015 1:54:31] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[15.11.2015 1:54:51] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[15.11.2015 2:7:23] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[15.11.2015 2:11:39] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[18.11.2015 14:31:51] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}REGENERAR
+[18.11.2015 15:21:56] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}REGENERAR
+[19.11.2015 19:46:33] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[19.11.2015 19:46:40] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[19.11.2015 20:26:16] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[19.11.2015 20:27:26] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[19.11.2015 20:52:26] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}ARMASPESADA [RPG-Bazoka]
+[20.11.2015 13:55:36] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[21.11.2015 8:49:38] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}BALASE (ON)
+[21.11.2015 8:49:53] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}BALASE (OFF)
+[21.11.2015 8:49:56] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}PONERC4
+[21.11.2015 8:50:2] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}DETONAR
+[21.11.2015 8:50:35] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[21.11.2015 8:51:6] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[21.11.2015 8:51:23] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[21.11.2015 8:51:55] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[21.11.2015 8:52:2] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[21.11.2015 8:52:27] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[21.11.2015 8:52:53] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[21.11.2015 8:53:43] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[21.11.2015 8:53:52] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[21.11.2015 8:55:14] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[21.11.2015 8:55:50] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[21.11.2015 8:56:11] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[21.11.2015 8:56:25] {0000FF}[INFO]: {FF80C0}El usuario VIP Legendario Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[22.11.2015 15:49:46] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[22.11.2015 15:50:7] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[26.11.2015 16:59:45] {0000FF}[INFO]: {FF80C0}El usuario VIP Esmeralda Carlosxp [0] usó el comando {99FF00}BAUTO
+[26.11.2015 19:19:5] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[26.11.2015 19:19:8] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[26.11.2015 23:27:45] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios probando [1] usó el comando {99FF00}S (Guardar Posición)
+[26.11.2015 23:39:29] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VKNOCKOUT (ON)
+[27.11.2015 18:16:6] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[27.11.2015 18:16:17] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[27.11.2015 18:17:36] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[27.11.2015 18:18:43] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[27.11.2015 18:19:2] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[27.11.2015 18:19:25] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[27.11.2015 18:20:8] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (ON)
+[27.11.2015 18:20:11] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}FLY (OFF)
+[27.11.2015 21:58:48] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}S (Guardar Posición)
+[27.11.2015 21:58:49] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}G (Ir a mi posición)
+[27.11.2015 22:3:0] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}ARMASPESADA [Minigun]
+[27.11.2015 22:3:34] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VKNOCKOUT (ON)
+[28.11.2015 1:39:25] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VELOCIDAD (ON)
+[28.11.2015 4:48:37] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [0] usó el comando {99FF00}VCAR
+[29.11.2015 14:28:26] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Carlosxp [1] usó el comando {99FF00}REGENERAR
+[29.11.2015 15:7:51] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Sr.[F]ran [1] usó el comando {99FF00}ARMASPESADA [Minigun]
+[29.11.2015 15:7:54] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios Sr.[F]ran [1] usó el comando {99FF00}INFIBALAS
+[28.9.2018 0:44:6] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios TOMAS68 [0] usó el comando {99FF00}LOQUENDO
+[28.9.2018 0:44:12] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios TOMAS68 [0] usó el comando {99FF00}LOQUENDO
+[28.9.2018 0:44:17] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios TOMAS68 [0] usó el comando {99FF00}LOQUENDO
+[28.9.2018 0:44:26] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios TOMAS68 [0] usó el comando {99FF00}LOQUENDO
+[28.9.2018 0:44:39] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios TOMAS68 [0] usó el comando {99FF00}LOQUENDO
+[28.9.2018 0:44:43] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios TOMAS68 [0] usó el comando {99FF00}LOQUENDO
+[28.9.2018 0:44:47] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios TOMAS68 [0] usó el comando {99FF00}LOQUENDO
+[28.9.2018 0:47:3] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios TOMAS68 [0] usó el comando {99FF00}VKNOCKOUT (ON)
+[28.9.2018 0:47:27] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios TOMAS68 [0] usó el comando {99FF00}VDCOLOR {00FF00}(ON)
+[28.9.2018 0:48:5] {0000FF}[INFO]: {FF80C0}El usuario VIP Dios TOMAS68 [0] usó el comando {99FF00}SAYAYIN

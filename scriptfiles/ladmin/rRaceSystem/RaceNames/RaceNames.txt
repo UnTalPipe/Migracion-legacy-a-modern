@@ -1,0 +1,14 @@
+TotalRaces=13
+Race_0=Alpha
+Race_1=Infernus
+Race_2=Banshee
+Race_3=Jester
+Race_4=Drift
+Race_5=Sultan
+Race_6=Hydra
+Race_7=Shamal
+Race_8=Buffalo
+Race_9=Euros
+Race_10=Bullet
+Race_11=Comet
+Race_12=Hotring

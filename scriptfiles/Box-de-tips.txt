@@ -1,0 +1,88 @@
+// Textdraw editor traducido por Carlosxp
+
+// Programación:
+new Text:Textdraw0;
+new Text:Textdraw1;
+new Text:Textdraw2;
+new Text:Textdraw3;
+new Text:Textdraw4;
+new Text:Textdraw5;
+new Text:Textdraw6;
+
+// En OnGameModeInt podrá crear los textdraws correspondientes:
+Textdraw0 = TextDrawCreate(66.000000, 430.000000, " ~b~Para poner una recompensa usa ~p~/Recompensa~b~.");
+TextDrawBackgroundColor(Textdraw0, 255);
+TextDrawFont(Textdraw0, 3);
+TextDrawLetterSize(Textdraw0, 0.449999, 1.699998);
+TextDrawColor(Textdraw0, -1);
+TextDrawSetOutline(Textdraw0, 1);
+TextDrawSetProportional(Textdraw0, 1);
+TextDrawSetSelectable(Textdraw0, 0);
+
+Textdraw1 = TextDrawCreate(640.000000, 430.000000, "_");
+TextDrawBackgroundColor(Textdraw1, 255);
+TextDrawFont(Textdraw1, 1);
+TextDrawLetterSize(Textdraw1, 0.509998, 1.700000);
+TextDrawColor(Textdraw1, -1);
+TextDrawSetOutline(Textdraw1, 0);
+TextDrawSetProportional(Textdraw1, 1);
+TextDrawSetShadow(Textdraw1, 1);
+TextDrawUseBox(Textdraw1, 1);
+TextDrawBoxColor(Textdraw1, 3604545);
+TextDrawTextSize(Textdraw1, 0.000000, 0.000000);
+TextDrawSetSelectable(Textdraw1, 0);
+
+Textdraw2 = TextDrawCreate(3.000000, 428.000000, "~>~");
+TextDrawBackgroundColor(Textdraw2, 255);
+TextDrawFont(Textdraw2, 1);
+TextDrawLetterSize(Textdraw2, 0.500000, 2.000000);
+TextDrawColor(Textdraw2, -1);
+TextDrawSetOutline(Textdraw2, 0);
+TextDrawSetProportional(Textdraw2, 1);
+TextDrawSetShadow(Textdraw2, 1);
+TextDrawSetSelectable(Textdraw2, 0);
+
+Textdraw3 = TextDrawCreate(16.000000, 429.000000, "tip");
+TextDrawBackgroundColor(Textdraw3, 255);
+TextDrawFont(Textdraw3, 2);
+TextDrawLetterSize(Textdraw3, 0.519999, 1.700000);
+TextDrawColor(Textdraw3, -16776961);
+TextDrawSetOutline(Textdraw3, 1);
+TextDrawSetProportional(Textdraw3, 1);
+TextDrawSetSelectable(Textdraw3, 0);
+
+Textdraw4 = TextDrawCreate(49.000000, 428.000000, "~<~");
+TextDrawBackgroundColor(Textdraw4, 255);
+TextDrawFont(Textdraw4, 1);
+TextDrawLetterSize(Textdraw4, 0.500000, 2.000000);
+TextDrawColor(Textdraw4, -1);
+TextDrawSetOutline(Textdraw4, 0);
+TextDrawSetProportional(Textdraw4, 1);
+TextDrawSetShadow(Textdraw4, 1);
+TextDrawSetSelectable(Textdraw4, 0);
+
+Textdraw5 = TextDrawCreate(66.000000, 430.000000, "_");
+TextDrawBackgroundColor(Textdraw5, 255);
+TextDrawFont(Textdraw5, 1);
+TextDrawLetterSize(Textdraw5, 0.519999, 1.799999);
+TextDrawColor(Textdraw5, -1);
+TextDrawSetOutline(Textdraw5, 0);
+TextDrawSetProportional(Textdraw5, 1);
+TextDrawSetShadow(Textdraw5, 1);
+TextDrawUseBox(Textdraw5, 1);
+TextDrawBoxColor(Textdraw5, 606348374);
+TextDrawTextSize(Textdraw5, 0.000000, 50.000000);
+TextDrawSetSelectable(Textdraw5, 0);
+
+Textdraw6 = TextDrawCreate(450.000000, 431.000000, "~y~||NUEVO TEXTDRAW||~b~[R~r~L]");
+TextDrawBackgroundColor(Textdraw6, 255);
+TextDrawFont(Textdraw6, 1);
+TextDrawLetterSize(Textdraw6, 0.500000, 1.000000);
+TextDrawColor(Textdraw6, -1);
+TextDrawSetOutline(Textdraw6, 0);
+TextDrawSetProportional(Textdraw6, 1);
+TextDrawSetShadow(Textdraw6, 1);
+TextDrawSetSelectable(Textdraw6, 0);
+
+// Ahora puede utilizar TextDrawShowForPlayer(-ForAll), TextDrawHideForPlayer(-ForAll) y
+// TextDrawDestroy para ocultar los textdraws.

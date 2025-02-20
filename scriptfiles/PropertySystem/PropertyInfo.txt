@@ -1,0 +1,146 @@
+Four Dragons Casino,2024.56,1007.65,10.81,172323,2000,En Venta,0 
+Come A Lot,2182.12,1115.15,12.35,76855,800,En Venta,0 
+Camels Toe,2208.27,1286.29,10.81,163895,900,En Venta,0 
+The High Roller,1956.68,1342.80,15.35,128696,650,En Venta,0 
+Royal Casino,2088.62,1449.17,10.52,119914,670,En Venta,0 
+Caligula's Casino,2184.11,1676.77,10.81,411842,2500,En Venta,0 
+Clowns Pocket,2220.12,1837.81,10.52,101653,550,En Venta,0 
+The Visage,2027.27,1914.67,11.93,114736,1500,En Venta,0 
+Las Venturas Casino,2165.10,2162.12,10.43,59321,650,En Venta,0 
+Well Stacked Pizza,370.98,-122.94,1001.46,30459,350,En Venta,0 
+ZIP,161.41,-85.79,1001.78,39783,475,En Venta,0 
+Cluckin Bell,372.17,-7.71,1001.84,48223,560,En Venta,0 
+Binco,207.75,-103.05,1005.25,24538,400,En Venta,0 
+Las Venturas Motel,2084.00,2176.86,10.81,9759,200,En Venta,0 
+Tatoo Shop,-203.13,-42.06,1002.27,14889,200,En Venta,0 
+Barbershop,418.95,-78.80,1001.78,8974,100,En Venta,0 
+Las Venturas Sexshop,-103.87,-21.12,1000.71,23831,300,En Venta,0 
+Burger Shot,370.25,-73.25,1001.50,56183,750,En Venta,0 
+Las Venturas Steak House,1694.01,2206.62,11.06,20377,230,En Venta,0 
+Redsands Gasstation,1600.56,2220.37,11.06,15125,175,En Venta,0 
+Las Venturas Airport,1675.06,1448.06,10.77,98008,1500,En Venta,0 
+Los Santos Disco,1833.43,-1685.06,13.47,20450,250,En Venta,0 
+SkatePark,1881.16,-1399.26,13.27,39218,500,En Venta,0 
+San Andreas Bank,1573.68,-1337.43,16.45,118508,1450,En Venta,0 
+San Andreas Insurance Company,1502.68,-1278.76,14.56,100468,1175,En Venta,0 
+Los Santos Hospital,1177.78,-1323.01,14.06,59344,700,En Venta,0 
+Donutshop,1037.93,-1338.06,13.72,39592,450,En Venta,0 
+The Movie Studio's,898.90,-1219.81,16.70,77251,850,En Venta,0 
+The Gravejard,935.82,-1103.17,24.04,24471,350,En Venta,0 
+Comedy Club Los Santos,1058.81,-943.88,42.65,7845,100,En Venta,0 
+TennisClub (LS),665.21,-1276.93,13.18,30079,400,En Venta,0 
+Vinyl Countdown (LS),816.03,-1387.68,13.31,10184,200,En Venta,0 
+Prolaps,210.52,-129.94,1003.51,25786,375,En Venta,0 
+Mainstreet,477.07,-1509.31,20.54,136143,1500,En Venta,0 
+The Pier (LS),390.35,-2045.67,7.82,44610,500,En Venta,0 
+The Grand Hotel (LS),330.39,-1512.43,35.74,29592,390,En Venta,0 
+Victim,218.25,-7.98,1001.21,26924,310,En Venta,0 
+Didier Sachs,204.36,-160.11,1000.52,32110,425,En Venta,0 
+Shopping Mall (LS),1129.03,-1457.43,15.77,50998,675,En Venta,0 
+Porn Cinema (LS),1123.03,-1130.56,23.79,10386,150,En Venta,0 
+Los Santos Theatre,1022.59,-1125.06,23.87,25400,300,En Venta,0 
+Maddogs Mansion,1254.06,-814.33,84.12,88991,1000,En Venta,0 
+Sandra's Mansion,298.79,-1156.15,80.90,483393,5750,En Venta,0 
+The Lighthouse (LS),154.13,-1945.42,4.63,12655,140,En Venta,0 
+RS Haul,-78.05,-1135.93,1.07,14983,200,En Venta,0 
+TruckStop,-24.95,-2509.12,36.63,9782,125,En Venta,0 
+Whetstone GasStation,-1552.88,-2740.37,48.74,20253,250,En Venta,0 
+Liquorshop Anglepine,-2105.31,-2432.12,30.62,12057,140,En Venta,0 
+Trailerpark AnglePine,-2087.30,-2526.87,30.42,10851,125,En Venta,0 
+Police Station Anglepine,-2162.76,-2387.10,30.62,11824,150,En Venta,0 
+Chill Dogs,-2198.87,-2387.08,30.62,5043,75,En Venta,0 
+The Junkjard,-1918.56,-1732.56,21.75,22160,250,En Venta,0 
+San Andreas Watercompany,-2062.29,-859.84,32.15,126499,1440,En Venta,0 
+San Fiero Stadium,-2124.36,-445.04,35.52,52257,600,En Venta,0 
+Drivingschool (SF),-2022.31,-99.66,35.15,61280,675,En Venta,0 
+San Fiero Airport,-1418.64,-292.79,14.14,84718,1000,En Venta,0 
+Fightclub 'Cobra' (SF),-2268.62,-152.52,35.31,12218,165,En Venta,0 
+Zero's RC,-2244.12,133.11,35.31,25280,295,En Venta,0 
+Garage Doherty,-2027.38,148.36,28.79,62616,725,En Venta,0 
+San Fiero Trainstation,-1983.31,137.99,27.68,24920,300,En Venta,0 
+Wang Cars,-1961.56,296.35,35.45,203978,2500,En Venta,0 
+Buildingsite (SF),-2121.84,208.63,34.86,16745,200,En Venta,0 
+Royal Hotel (SF),-2418.62,333.60,35.15,45321,500,En Venta,0 
+The Biffin Bridge Hotel,-2460.12,135.77,34.83,38931,460,En Venta,0 
+Area 69,214.00,1864.00,13.00,362352,2000,En Venta,0 
+Michelle's,-1786.90,1205.65,25.12,23221,2000,En Venta,0 
+Otto's Autos,-1656.43,1213.81,7.25,12312,2000,En Venta,0 
+Pier 69,-1704.31,1339.06,7.17,15323,2000,En Venta,0 
+Iglecia SF,-1982.93,1120.56,53.13,15322,2000,En Venta,0 
+Supa Save,-2443.87,748.28,35.15,236844,2000,En Venta,0 
+Hospital SF,-2656.28,631.03,14.43,21623,2000,En Venta,0 
+Ayuntamiento SF,-2759.12,374.29,4.32,53721,1500,En Venta,0 
+Ammu-Nation SF,-2625.62,211.32,4.61,18323,3500,En Venta,0 
+Chemicals Factory,-1038.90,-584.59,32.00,15327,5000,En Venta,0 
+Deposito Red Country,-491.82,-562.64,25.52,95252,5000,En Venta,0 
+Ayuntamiento LS,1480.89,-1750.14,15.43,168924,2000,En Venta,0 
+Unity Station,1743.52,-1860.29,13.56,26321,1500,En Venta,0 
+Carcel LS,1804.88,-1575.54,13.42,82317,500,En Venta,0 
+Glen Park,1977.78,-1199.05,25.79,16112,200,En Venta,0 
+Jefferson Hostel,2227.62,-1160.43,25.77,63261,2000,En Venta,0 
+Pig Pen,2424.50,-1227.43,25.04,332218,3000,En Venta,0 
+Big Smoke Palace,2517.87,-1271.81,34.86,61261,1700,En Venta,0 
+Los Santos Forum,2690.87,-1697.06,10.35,41742,6000,En Venta,0 
+CJ House,2505.62,-1687.81,13.60,51864,1000,Carlosxp,1 
+Big Smoke House,2071.28,-1702.43,13.52,12214,1000,En Venta,0 
+Ammu Nation LS,1364.56,-1286.89,13.52,35231,3500,En Venta,0 
+LS Beachside,290.76,-1626.18,33.27,16884,500,En Venta,0 
+The Welcome Pump,680.96,-477.45,16.29,34136,1500,En Venta,0 
+Licoreria Blueberry,253.19,-65.19,1.57,25716,2500,En Venta,0 
+Deposito Blueberry,70.48,-240.88,1.57,23261,3000,En Venta,0 
+Auto Cinera Ford Carson,111.87,1102.93,13.60,45124,600,En Venta,0 
+Hospital Ford Carson,-317.29,1059.52,19.70,182675,600,En Venta,0 
+Lil' Probe'Inn,-82.69,1376.43,10.27,237283,500,En Venta,0 
+Hospital el Quebrado,-1514.25,2527.34,55.74,278212,500,En Venta,0 
+Tee Pee Motel,-848.34,2739.12,45.77,292615,700,En Venta,0 
+Balt Shop,-1349.66,2055.78,52.65,16717,1000,En Venta,0 
+Construccion LV,814.84,842.88,10.22,792352,400,En Venta,0 
+Blackfield Stadium LV,1097.88,1617.56,12.52,125322,2500,En Venta,0 
+Frigorifico LV,981.83,2153.27,10.81,112792,1500,En Venta,0 
+Bandits Stadium LV,1496.55,2251.87,10.81,793223,4500,En Venta,0 
+Iglecia LV,2483.09,919.88,10.81,345347,1800,En Venta,0 
+Rock Hotel,2633.61,2345.01,10.67,373211,4000,En Venta,0 
+Emerald Isle,2125.75,2352.03,10.67,893283,5000,En Venta,0 
+Ammu Nation LV,2537.08,2080.37,10.81,152729,3500,En Venta,0 
+Los Santos Airport,1639.90,-2330.81,13.52,216921,2100,En Venta,0 
+Los Santos President House,1133.68,-2036.68,69.00,496235,1200,En Venta,0 
+24 Horas RL,759.90,-1380.43,13.72,173844,2000,En Venta,0 
+Aeropuerto Abandonado,405.60,2446.60,16.50,185238,150,En Venta,0 
+Toreno's House,-703.57,951.21,12.39,461688,400,En Venta,0 
+Casa del Bosque,-1646.56,-2235.09,29.79,272195,300,En Venta,0 
+Casa del Amor,-2798.12,-1532.76,139.27,215643,300,En Venta,0 
+CJ Mansion,1329.43,-622.46,109.12,732812,1900,En Venta,0 
+San News,-2484.62,-615.84,132.55,532812,6200,En Venta,0 
+Ford Carson House,-365.16,1165.31,19.70,126761,1500,En Venta,0 
+The Big Ear,-310.64,1535.18,75.55,12575,1500,En Venta,0 
+The Golf Club,1460.29,2773.58,10.81,800000,700,En Venta,0 
+Police Department LV,2290.12,2426.32,10.81,750000,360,En Venta,0 
+Las Venturas University,1088.68,1075.68,10.84,600000,800,En Venta,0 
+Industries SF,-1823.54,2.25,15.10,145690,780,En Venta,0 
+Conference Centre LS,1145.18,-1769.56,16.59,900000,1400,En Venta,0 
+Sayonara Restaurant,1486.64,-1895.18,22.20,530200,630,En Venta,0 
+Modern House SF,-2660.81,879.84,79.76,845300,325,En Venta,0 
+Sr.[F]ran House SF,-2664.87,914.15,79.68,785270,2200,En Venta,0 
+Primaveral House SF,-2706.56,865.33,70.69,790000,315,En Venta,0 
+Small House SF,-2647.33,851.08,64.01,685000,300,En Venta,0 
+Vice Hotel LS,554.65,-1630.93,17.19,910000,720,En Venta,0 
+Frank's House,923.14,2011.93,11.31,550500,1100,En Venta,0 
+Valeria's House,1282.92,2529.87,10.81,600300,1100,En Venta,0 
+Valeria & Frank Mansion,252.66,-1269.13,73.98,750000,3800,En Venta,0 
+Casual House SF,-2641.07,933.90,71.94,790000,300,En Venta,0 
+Normal House 1 LV,985.46,2343.37,11.47,550000,250,En Venta,0 
+Normal House 2 LV,987.34,2314.12,11.46,545000,240,En Venta,0 
+Normal House 3 LV,1032.56,2315.27,11.47,548000,246,En Venta,0 
+Normal House 4 LV,948.76,2273.30,11.47,547000,244,En Venta,0 
+Normal House 5 LV,986.38,2272.50,11.46,553250,270,En Venta,0 
+Club Tennis Apartment's LV,1766.30,2750.62,10.84,805450,0,En Venta,0 
+Harold's Mansion,219.80,-1250.77,78.33,645382,2940,En Venta,0 
+Vinewood Modern House,979.59,-831.15,95.58,550345,1050,En Venta,0 
+Colonial House,1033.68,-640.03,120.12,648294,1050,En Venta,0 
+Modern Apartment's LS,1266.93,-887.53,42.88,367800,560,En Venta,0 
+Santa Maria Beach Hotel,487.32,-1641.81,23.70,630000,890,En Venta,0 
+SF Fire Department,-2023.16,67.05,28.45,371674,482,En Venta,0 
+Grand Club SF,-2720.37,-318.23,7.84,785000,1350,En Venta,0 
+Wheel Archangels SF,-2716.37,197.71,4.34,500300,693,En Venta,0 
+Transamerican Pyramid,-1749.56,863.94,24.87,850790,1400,En Venta,0 
+Grand Hotel SF,-1754.18,960.95,24.87,680000,500,En Venta,0 

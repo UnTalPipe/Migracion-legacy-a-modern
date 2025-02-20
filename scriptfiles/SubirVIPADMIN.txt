@@ -1,0 +1,117 @@
+// Textdraw editor traducido por Carlosxp
+
+// Programación:
+new Text:Textdraw0;
+new Text:Textdraw1;
+new Text:Textdraw2;
+new Text:Textdraw3;
+new Text:Textdraw4;
+new Text:Textdraw5;
+new Text:Textdraw6;
+new Text:Textdraw7;
+new Text:Textdraw8;
+new Text:Textdraw9;
+
+// En OnGameModeInt podrá crear los textdraws correspondientes:
+Textdraw0 = TextDrawCreate(189.000000, 242.000000, "_");
+TextDrawBackgroundColor(Textdraw0, 255);
+TextDrawFont(Textdraw0, 1);
+TextDrawLetterSize(Textdraw0, 0.860000, 15.199999);
+TextDrawColor(Textdraw0, -1);
+TextDrawSetOutline(Textdraw0, 0);
+TextDrawSetProportional(Textdraw0, 1);
+TextDrawSetShadow(Textdraw0, 1);
+TextDrawUseBox(Textdraw0, 1);
+TextDrawBoxColor(Textdraw0, 922746945);
+TextDrawTextSize(Textdraw0, 436.000000, 50.000000);
+TextDrawSetSelectable(Textdraw0, 0);
+
+Textdraw1 = TextDrawCreate(269.000000, 242.000000, "¡NUEVO VIP!");
+TextDrawBackgroundColor(Textdraw1, 255);
+TextDrawFont(Textdraw1, 3);
+TextDrawLetterSize(Textdraw1, 0.379999, 2.200000);
+TextDrawColor(Textdraw1, 65535);
+TextDrawSetOutline(Textdraw1, 1);
+TextDrawSetProportional(Textdraw1, 1);
+TextDrawSetSelectable(Textdraw1, 0);
+
+Textdraw2 = TextDrawCreate(257.000000, 295.000000, "Legendario");
+TextDrawBackgroundColor(Textdraw2, 255);
+TextDrawFont(Textdraw2, 0);
+TextDrawLetterSize(Textdraw2, 0.409999, 1.199998);
+TextDrawColor(Textdraw2, 16711935);
+TextDrawSetOutline(Textdraw2, 1);
+TextDrawSetProportional(Textdraw2, 1);
+TextDrawSetSelectable(Textdraw2, 0);
+
+Textdraw3 = TextDrawCreate(231.000000, 269.000000, "Te dieron un nuevo nivel de VIP.");
+TextDrawBackgroundColor(Textdraw3, 255);
+TextDrawFont(Textdraw3, 1);
+TextDrawLetterSize(Textdraw3, 0.280000, 1.399999);
+TextDrawColor(Textdraw3, -16776961);
+TextDrawSetOutline(Textdraw3, 0);
+TextDrawSetProportional(Textdraw3, 1);
+TextDrawSetShadow(Textdraw3, 1);
+TextDrawSetSelectable(Textdraw3, 0);
+
+Textdraw4 = TextDrawCreate(190.000000, 293.000000, "Nuevo VIP:");
+TextDrawBackgroundColor(Textdraw4, 255);
+TextDrawFont(Textdraw4, 2);
+TextDrawLetterSize(Textdraw4, 0.270000, 1.499999);
+TextDrawColor(Textdraw4, -16776961);
+TextDrawSetOutline(Textdraw4, 0);
+TextDrawSetProportional(Textdraw4, 1);
+TextDrawSetShadow(Textdraw4, 1);
+TextDrawSetSelectable(Textdraw4, 0);
+
+Textdraw5 = TextDrawCreate(191.000000, 313.000000, "Administrador:");
+TextDrawBackgroundColor(Textdraw5, 255);
+TextDrawFont(Textdraw5, 2);
+TextDrawLetterSize(Textdraw5, 0.209999, 1.700000);
+TextDrawColor(Textdraw5, -16776961);
+TextDrawSetOutline(Textdraw5, 0);
+TextDrawSetProportional(Textdraw5, 1);
+TextDrawSetShadow(Textdraw5, 1);
+TextDrawSetSelectable(Textdraw5, 0);
+
+Textdraw6 = TextDrawCreate(266.000000, 316.000000, "Carlosxp");
+TextDrawBackgroundColor(Textdraw6, 255);
+TextDrawFont(Textdraw6, 0);
+TextDrawLetterSize(Textdraw6, 0.409999, 1.199998);
+TextDrawColor(Textdraw6, 16711935);
+TextDrawSetOutline(Textdraw6, 1);
+TextDrawSetProportional(Textdraw6, 1);
+TextDrawSetSelectable(Textdraw6, 0);
+
+Textdraw7 = TextDrawCreate(244.000000, 342.000000, "Revolucion");
+TextDrawBackgroundColor(Textdraw7, 255);
+TextDrawFont(Textdraw7, 0);
+TextDrawLetterSize(Textdraw7, 0.659999, 1.299999);
+TextDrawColor(Textdraw7, -16776961);
+TextDrawSetOutline(Textdraw7, 0);
+TextDrawSetProportional(Textdraw7, 1);
+TextDrawSetShadow(Textdraw7, 1);
+TextDrawSetSelectable(Textdraw7, 0);
+
+Textdraw8 = TextDrawCreate(328.000000, 342.000000, "Latina");
+TextDrawBackgroundColor(Textdraw8, 255);
+TextDrawFont(Textdraw8, 0);
+TextDrawLetterSize(Textdraw8, 0.659999, 1.299999);
+TextDrawColor(Textdraw8, 65535);
+TextDrawSetOutline(Textdraw8, 0);
+TextDrawSetProportional(Textdraw8, 1);
+TextDrawSetShadow(Textdraw8, 1);
+TextDrawSetSelectable(Textdraw8, 0);
+
+Textdraw9 = TextDrawCreate(238.000000, 360.000000, "Copyright 2013-2015");
+TextDrawBackgroundColor(Textdraw9, 255);
+TextDrawFont(Textdraw9, 3);
+TextDrawLetterSize(Textdraw9, 0.449999, 1.000000);
+TextDrawColor(Textdraw9, 16711935);
+TextDrawSetOutline(Textdraw9, 0);
+TextDrawSetProportional(Textdraw9, 1);
+TextDrawSetShadow(Textdraw9, 1);
+TextDrawSetSelectable(Textdraw9, 0);
+
+// Ahora puede utilizar TextDrawShowForPlayer(-ForAll), TextDrawHideForPlayer(-ForAll) y
+// TextDrawDestroy para ocultar los textdraws.
